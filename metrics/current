@@ -1,0 +1,21 @@
+# RS Banja Luka
+cases_count{country="BA", region="RS", city="Banja Luka"} 18
+recovered_count{country="BA", region="RS", city="Banja Luka"} 0
+deaths_count{country="BA", region="RS", city="Banja Luka"} 0
+# RS Laktasi
+cases_count{country="BA", region="RS", city="Laktasi"} 1
+recovered_count{country="BA", region="RS", city="Laktasi"} 0
+deaths_count{country="BA", region="RS", city="Laktasi"} 0
+# RS Srbac
+cases_count{country="BA", region="RS", city="Srbac"} 1
+recovered_count{country="BA", region="RS", city="Srbac"} 0
+deaths_count{country="BA", region="RS", city="Srbac"} 0
+# FBiH Zenica
+cases_count{country="BA", region="FBiH", city="Zenica"} 3
+recovered_count{country="BA", region="FBiH", city="Zenica"} 0
+deaths_count{country="BA", region="FBiH", city="Zenica"} 0
+# FBiH Orasje
+cases_count{country="BA", region="FBiH", city="Orasje"} 1
+recovered_count{country="BA", region="FBiH", city="Orasje"} 0
+deaths_count{country="BA", region="FBiH", city="Orasje"} 0
+

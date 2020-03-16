@@ -1,0 +1,63 @@
+[
+        {
+          "key": "Sarajevo",
+          "latitude": 43.85643,
+          "longitude": 18.413029,
+          "name": "Sarajevo"
+        },
+        {
+          "key": "Banja Luka",
+          "latitude": 44.77583,
+          "longitude": 17.18556,
+          "name": "Banja Luka"
+        },
+        {
+          "key": "Zenica",
+          "latitude": 44.20169,
+          "longitude": 17.90397,
+          "name": "Zenica"
+        },
+        {
+          "key": "Tuzla",
+          "latitude": 44.53842,
+          "longitude": 18.66709,
+          "name": "Tuzla"
+        },
+        {
+          "key": "Mostar",
+          "latitude": 43.343033,
+          "longitude": 17.807894,
+          "name": "Mostar"
+        },
+        {
+          "key": "Bihac",
+          "latitude": 44.81694,
+          "longitude": 15.87083,
+          "name": "Bihac"
+        },
+        {
+          "key": "Laktasi",
+          "latitude": 44.90857,
+          "longitude": 17.30135,
+          "name": "Laktasi"
+        },
+        {
+          "key": "Srbac",
+          "latitude": 45.0973,
+          "longitude": 17.52331,
+          "name": "Srbac"
+        },
+        {
+          "key": "Orasje",
+          "latitude": 45.03366,
+          "longitude": 18.69334,
+          "name": "Orasje"
+        },
+        {
+          "key": "Tesanj",
+          "latitude": 44.61191,
+          "longitude": 17.98552,
+          "name": "Tesanj"
+        }
+
+      ]

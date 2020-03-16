@@ -22,4 +22,9 @@ deaths_count{country="BA", region="FBiH", city="Zenica"} 0
 cases_count{country="BA", region="FBiH", city="Orasje"} 1
 recovered_count{country="BA", region="FBiH", city="Orasje"} 0
 deaths_count{country="BA", region="FBiH", city="Orasje"} 0
+# FBiH Tesanj
+cases_count{country="BA", region="FBiH", city="Tesanj"} 1
+recovered_count{country="BA", region="FBiH", city="Tesanj"} 0
+deaths_count{country="BA", region="FBiH", city="Tesanj"} 0
+
 

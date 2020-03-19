@@ -100,5 +100,11 @@
           "latitude": 45.183333,
           "longitude": 16.8,
           "name": "Kozarska Dubica"
+        },
+        {
+          "key": "Gorazde",
+          "latitude": 43.66795,
+          "longitude": 18.97564,
+          "name": "Gorazde"
         }
 ]

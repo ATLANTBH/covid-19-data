@@ -3,7 +3,7 @@ cases_count{country="BA", region="RS", city="Unknown"} 0
 recovered_count{country="BA", region="RS", city="Unknown"} 2
 deaths_count{country="BA", region="RS", city="Unknown"} 0
 # RS Banja Luka
-cases_count{country="BA", region="RS", city="Banja Luka"} 25
+cases_count{country="BA", region="RS", city="Banja Luka"} 41
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # RS Laktasi

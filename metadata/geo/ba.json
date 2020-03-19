@@ -76,5 +76,29 @@
           "latitude": 43.65126,
           "longitude": 17.96082,
           "name": "Konjic"
+        },
+        {
+          "key": "Bijeljina",
+          "latitude": 44.756944,
+          "longitude": 19.216111,
+          "name": "Bijeljina"
+        },
+        {
+          "key": "Prijedor",
+          "latitude": 44.980833,
+          "longitude": 16.713333,
+          "name": "Prijedor"
+        },
+        {
+          "key": "Ribnik",
+          "latitude": 44.45,
+          "longitude": 16.816667,
+          "name": "Ribnik"
+        },
+        {
+          "key": "Kozarska Dubica",
+          "latitude": 45.183333,
+          "longitude": 16.8,
+          "name": "Kozarska Dubica"
         }
 ]

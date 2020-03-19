@@ -23,7 +23,7 @@ cases_count{country="BA", region="RS", city="Doboj"} 1
 recovered_count{country="BA", region="RS", city="Doboj"} 0
 deaths_count{country="BA", region="RS", city="Doboj"} 0
 # FBiH Zenica
-cases_count{country="BA", region="FBiH", city="Zenica"} 3
+cases_count{country="BA", region="FBiH", city="Zenica"} 4
 recovered_count{country="BA", region="FBiH", city="Zenica"} 0
 deaths_count{country="BA", region="FBiH", city="Zenica"} 0
 # FBiH Orasje
@@ -35,7 +35,7 @@ cases_count{country="BA", region="FBiH", city="Tesanj"} 1
 recovered_count{country="BA", region="FBiH", city="Tesanj"} 0
 deaths_count{country="BA", region="FBiH", city="Tesanj"} 0
 # FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 1
+cases_count{country="BA", region="FBiH", city="Bihac"} 2
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Mostar
@@ -46,5 +46,4 @@ deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 cases_count{country="BA", region="FBiH", city="Konjic"} 4
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
-
 

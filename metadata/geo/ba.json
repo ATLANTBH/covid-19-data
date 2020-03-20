@@ -106,5 +106,23 @@
           "latitude": 43.66795,
           "longitude": 18.97564,
           "name": "Gorazde"
+        },
+        {
+          "key": "Derventa",
+          "latitude": 44.97839,
+          "longitude": 17.90779,
+          "name": "Derventa"
+        },
+         {
+          "key": "Gradiska",
+          "latitude": 45.14484,
+          "longitude": 17.25453,
+          "name": "Gradiska"
+        },
+          {
+          "key": "Celinac",
+          "latitude": 44.72453,
+          "longitude": 17.32431,
+          "name": "Celinac"
         }
 ]

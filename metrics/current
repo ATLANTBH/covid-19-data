@@ -3,11 +3,11 @@ cases_count{country="BA", region="RS", city="Unknown"} 0
 recovered_count{country="BA", region="RS", city="Unknown"} 2
 deaths_count{country="BA", region="RS", city="Unknown"} 0
 # RS Banja Luka
-cases_count{country="BA", region="RS", city="Banja Luka"} 37
+cases_count{country="BA", region="RS", city="Banja Luka"} 45
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # RS Laktasi
-cases_count{country="BA", region="RS", city="Laktasi"} 1
+cases_count{country="BA", region="RS", city="Laktasi"} 2
 recovered_count{country="BA", region="RS", city="Laktasi"} 0
 deaths_count{country="BA", region="RS", city="Laktasi"} 0
 # RS Srbac
@@ -66,5 +66,15 @@ deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 cases_count{country="BA", region="FBiH", city="Gorazde"} 1
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
-
-
+# RS Gradiska
+cases_count{country="BA", region="RS", city="Gradiska"} 1
+recovered_count{country="BA", region="RS", city="Gradiska"} 0
+deaths_count{country="BA", region="RS", city="Gradiska"} 0
+# RS Derventa
+cases_count{country="BA", region="RS", city="Derventa"} 1
+recovered_count{country="BA", region="RS", city="Derventa"} 0
+deaths_count{country="BA", region="RS", city="Derventa"} 0
+# RS Celinac
+cases_count{country="BA", region="RS", city="Celinac"} 3
+recovered_count{country="BA", region="RS", city="Celinac"} 0
+deaths_count{country="BA", region="RS", city="Celinac"} 0

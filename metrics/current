@@ -1,7 +1,7 @@
 # RS Unknown
 cases_count{country="BA", region="RS", city="Unknown"} 0
 recovered_count{country="BA", region="RS", city="Unknown"} 2
-deaths_count{country="BA", region="RS", city="Unknown"} 0
+deaths_count{country="BA", region="RS", city="Unknown"} 1
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 45
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
@@ -53,7 +53,7 @@ deaths_count{country="BA", region="FBiH", city="Tesanj"} 0
 # FBiH Bihac
 cases_count{country="BA", region="FBiH", city="Bihac"} 2
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
-deaths_count{country="BA", region="FBiH", city="Bihac"} 0
+deaths_count{country="BA", region="FBiH", city="Bihac"} 1
 # FBiH Mostar
 cases_count{country="BA", region="FBiH", city="Mostar"} 7
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0

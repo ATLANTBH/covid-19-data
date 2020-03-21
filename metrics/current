@@ -51,7 +51,7 @@ cases_count{country="BA", region="FBiH", city="Tesanj"} 2
 recovered_count{country="BA", region="FBiH", city="Tesanj"} 0
 deaths_count{country="BA", region="FBiH", city="Tesanj"} 0
 # FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 2
+cases_count{country="BA", region="FBiH", city="Bihac"} 4
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Mostar

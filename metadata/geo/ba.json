@@ -124,5 +124,11 @@
           "latitude": 44.72453,
           "longitude": 17.32431,
           "name": "Celinac"
+        },
+          {
+          "key": "Travnik",
+          "latitude": 44.22637,
+          "longitude": 17.66583,
+          "name": "Travnik"
         }
 ]

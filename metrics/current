@@ -39,7 +39,7 @@ cases_count{country="BA", region="RS", city="Kozarska Dubica"} 2
 recovered_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 deaths_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 # RS Bijeljina
-cases_count{country="BA", region="RS", city="Bijeljina"} 1
+cases_count{country="BA", region="RS", city="Bijeljina"} 3
 recovered_count{country="BA", region="RS", city="Bijeljina"} 0
 deaths_count{country="BA", region="RS", city="Bijeljina"} 0
 # FBiH Zenica

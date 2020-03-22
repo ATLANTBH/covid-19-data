@@ -7,11 +7,11 @@ cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 0
 deaths_count{country="BA", region="FBiH", city="Unknown"} 1
 # RS Banja Luka
-cases_count{country="BA", region="RS", city="Banja Luka"} 45
+cases_count{country="BA", region="RS", city="Banja Luka"} 64
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # RS Laktasi
-cases_count{country="BA", region="RS", city="Laktasi"} 2
+cases_count{country="BA", region="RS", city="Laktasi"} 6
 recovered_count{country="BA", region="RS", city="Laktasi"} 0
 deaths_count{country="BA", region="RS", city="Laktasi"} 0
 # RS Srbac
@@ -19,7 +19,7 @@ cases_count{country="BA", region="RS", city="Srbac"} 1
 recovered_count{country="BA", region="RS", city="Srbac"} 0
 deaths_count{country="BA", region="RS", city="Srbac"} 0
 # RS Prnjavor
-cases_count{country="BA", region="RS", city="Prnjavor"} 1
+cases_count{country="BA", region="RS", city="Prnjavor"} 2
 recovered_count{country="BA", region="RS", city="Prnjavor"} 0
 deaths_count{country="BA", region="RS", city="Prnjavor"} 0
 # RS Doboj
@@ -35,7 +35,7 @@ cases_count{country="BA", region="RS", city="Ribnik"} 1
 recovered_count{country="BA", region="RS", city="Ribnik"} 0
 deaths_count{country="BA", region="RS", city="Ribnik"} 0
 # RS Kozarska Dubica
-cases_count{country="BA", region="RS", city="Kozarska Dubica"} 1
+cases_count{country="BA", region="RS", city="Kozarska Dubica"} 2
 recovered_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 deaths_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 # RS Bijeljina
@@ -90,3 +90,11 @@ deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 cases_count{country="BA", region="FBiH", city="Travnik"} 1
 recovered_count{country="BA", region="FBiH", city="Travnik"} 0
 deaths_count{country="BA", region="FBiH", city="Travnik"} 0
+# RS Knezevo
+cases_count{country="BA", region="RS", city="Knezevo"} 3
+recovered_count{country="BA", region="RS", city="Knezevo"} 0
+deaths_count{country="BA", region="RS", city="Knezevo"} 0
+# RS Modrica
+cases_count{country="BA", region="RS", city="Modrica"} 1
+recovered_count{country="BA", region="RS", city="Modrica"} 0
+deaths_count{country="BA", region="RS", city="Modrica"} 0

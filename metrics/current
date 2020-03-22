@@ -67,7 +67,7 @@ cases_count{country="BA", region="FBiH", city="Konjic"} 11
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 # FBiH Gorazde
-cases_count{country="BA", region="FBiH", city="Gorazde"} 3
+cases_count{country="BA", region="FBiH", city="Gorazde"} 4
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # RS Gradiska

@@ -130,5 +130,17 @@
           "latitude": 44.22637,
           "longitude": 17.66583,
           "name": "Travnik"
+        },
+          {
+          "key": "Knezevo",
+          "latitude": 44.4685,
+          "longitude": 17.3921,
+          "name": "Travnik"
+        },
+          {
+          "key": "Modrica",
+          "latitude": 44.9544444,
+          "longitude": 18.3036111,
+          "name": "Modrica"
         }
 ]

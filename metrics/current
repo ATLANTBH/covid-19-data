@@ -55,9 +55,13 @@ cases_count{country="BA", region="FBiH", city="Tesanj"} 2
 recovered_count{country="BA", region="FBiH", city="Tesanj"} 0
 deaths_count{country="BA", region="FBiH", city="Tesanj"} 0
 # FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 4
+cases_count{country="BA", region="FBiH", city="Bihac"} 5
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
+# FBiH Visoko
+cases_count{country="BA", region="FBiH", city="Visoko"} 1
+recovered_count{country="BA", region="FBiH", city="Visoko"} 0
+deaths_count{country="BA", region="FBiH", city="Visoko"} 0
 # FBiH Mostar
 cases_count{country="BA", region="FBiH", city="Mostar"} 6
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
@@ -99,6 +103,6 @@ cases_count{country="BA", region="RS", city="Modrica"} 1
 recovered_count{country="BA", region="RS", city="Modrica"} 0
 deaths_count{country="BA", region="RS", city="Modrica"} 0
 # Brcko District Brcko
-cases_count{country="BA", region="Brcko District ", city="Brcko"} 2
+cases_count{country="BA", region="Brcko District", city="Brcko"} 2
 recovered_count{country="BA", region="Brcko District", city="Brcko"} 0
-deaths_count{country="BA", region="Brcko District ", city="Brcko"} 0
+deaths_count{country="BA", region="Brcko District", city="Brcko"} 0

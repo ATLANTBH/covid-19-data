@@ -148,5 +148,11 @@
           "latitude": 44.9544444,
           "longitude": 18.3036111,
           "name": "Modrica"
+        },
+          {
+          "key": "Visoko",
+          "latitude": 43.98889,
+          "longitude": 18.17806,
+          "name": "Visoko"
         }
 ]

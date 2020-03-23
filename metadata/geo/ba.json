@@ -136,6 +136,12 @@
           "latitude": 44.4685,
           "longitude": 17.3921,
           "name": "Knezevo"
+                  },
+          {
+          "key": "Brcko",
+          "latitude": 44.87278,
+          "longitude": 18.80833,
+          "name": "Brcko"
         },
           {
           "key": "Modrica",

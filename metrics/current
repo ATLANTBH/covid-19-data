@@ -98,3 +98,7 @@ deaths_count{country="BA", region="RS", city="Knezevo"} 0
 cases_count{country="BA", region="RS", city="Modrica"} 1
 recovered_count{country="BA", region="RS", city="Modrica"} 0
 deaths_count{country="BA", region="RS", city="Modrica"} 0
+# Brcko District Brcko
+cases_count{country="BA", region="Brcko District ", city="Brcko"} 2
+recovered_count{country="BA", region="Brcko District", city="Brcko"} 0
+deaths_count{country="BA", region="Brcko District ", city=Brcko"} 0

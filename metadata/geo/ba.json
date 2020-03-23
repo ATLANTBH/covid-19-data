@@ -18,6 +18,12 @@
           "name": "Zenica"
         },
         {
+          "key": "Breza",
+          "latitude": 44.0181,
+          "longitude": 18.2613,
+          "name": "Zenica"
+        },
+        {
           "key": "Tuzla",
           "latitude": 44.53842,
           "longitude": 18.66709,
@@ -148,6 +154,12 @@
           "latitude": 43.98889,
           "longitude": 18.17806,
           "name": "Visoko"
+        },
+        {
+          "key": "Breza",
+          "latitude": 44.0181,
+          "longitude": 18.2613,
+          "name": "Breza"
         },
           {
           "key": "Modrica",

@@ -55,7 +55,7 @@ cases_count{country="BA", region="FBiH", city="Tesanj"} 2
 recovered_count{country="BA", region="FBiH", city="Tesanj"} 0
 deaths_count{country="BA", region="FBiH", city="Tesanj"} 0
 # FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 5
+cases_count{country="BA", region="FBiH", city="Bihac"} 6
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Visoko
@@ -119,6 +119,6 @@ cases_count{country="BA", region="FBiH", city="Breza"} 1
 recovered_count{country="BA", region="FBiH", city="Breza"} 0
 deaths_count{country="BA", region="FBiH", city="Breza"} 0
 # FBiH Siroki Brijeg
-cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 1
+cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 3
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0

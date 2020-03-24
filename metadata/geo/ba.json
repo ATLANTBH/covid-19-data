@@ -160,5 +160,11 @@
           "latitude": 44.9544444,
           "longitude": 18.3036111,
           "name": "Modrica"
-        }
+        },
+        {
+          "key": "Siroki Brijeg",
+          "latitude": 43.3829,
+          "longitude": 17.59416,
+          "name": "Siroki Brijeg"
+        }		        
 ]

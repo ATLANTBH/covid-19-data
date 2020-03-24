@@ -5,7 +5,7 @@ deaths_count{country="BA", region="RS", city="Unknown"} 0
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 0
-deaths_count{country="BA", region="FBiH", city="Unknown"} 2
+deaths_count{country="BA", region="FBiH", city="Unknown"} 3
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 80
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
@@ -91,7 +91,7 @@ cases_count{country="BA", region="RS", city="Celinac"} 3
 recovered_count{country="BA", region="RS", city="Celinac"} 0
 deaths_count{country="BA", region="RS", city="Celinac"} 0
 # FBiH Sarajevo
-cases_count{country="BA", region="FBiH", city="Sarajevo"} 3
+cases_count{country="BA", region="FBiH", city="Sarajevo"} 5
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # FBiH Novi Travnik

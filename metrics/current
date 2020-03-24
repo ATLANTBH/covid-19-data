@@ -7,11 +7,11 @@ cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 0
 deaths_count{country="BA", region="FBiH", city="Unknown"} 2
 # RS Banja Luka
-cases_count{country="BA", region="RS", city="Banja Luka"} 70
+cases_count{country="BA", region="RS", city="Banja Luka"} 80
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # RS Laktasi
-cases_count{country="BA", region="RS", city="Laktasi"} 7
+cases_count{country="BA", region="RS", city="Laktasi"} 8
 recovered_count{country="BA", region="RS", city="Laktasi"} 0
 deaths_count{country="BA", region="RS", city="Laktasi"} 0
 # RS Srbac

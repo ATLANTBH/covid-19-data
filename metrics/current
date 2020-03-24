@@ -67,7 +67,7 @@ cases_count{country="BA", region="FBiH", city="Mostar"} 7
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Konjic
-cases_count{country="BA", region="FBiH", city="Konjic"} 11
+cases_count{country="BA", region="FBiH", city="Konjic"} 15
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 # FBiH Gorazde
@@ -110,3 +110,7 @@ deaths_count{country="BA", region="Brcko District", city="Brcko"} 0
 cases_count{country="BA", region="FBiH", city="Breza"} 1
 recovered_count{country="BA", region="FBiH", city="Breza"} 0
 deaths_count{country="BA", region="FBiH", city="Breza"} 0
+# FBiH Siroki Brijeg
+cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 1
+recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
+deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0

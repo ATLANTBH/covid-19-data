@@ -155,11 +155,23 @@
           "longitude": 18.2613,
           "name": "Breza"
         },
-          {
+        {
           "key": "Modrica",
           "latitude": 44.9544444,
           "longitude": 18.3036111,
           "name": "Modrica"
+        },
+        {
+          "key": "Teslic",
+          "latitude": 44.60639,
+          "longitude": 17.85972,
+          "name": "Teslic"
+        },
+        {
+          "key": "Bosanski Brod",
+          "latitude": 45.13747,
+          "longitude": 17.98722,
+          "name": "Bosanski Brod"
         },
         {
           "key": "Siroki Brijeg",

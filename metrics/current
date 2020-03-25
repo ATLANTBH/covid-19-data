@@ -71,7 +71,7 @@ cases_count{country="BA", region="FBiH", city="Mostar"} 7
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Konjic
-cases_count{country="BA", region="FBiH", city="Konjic"} 15
+cases_count{country="BA", region="FBiH", city="Konjic"} 17
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 # FBiH Gorazde

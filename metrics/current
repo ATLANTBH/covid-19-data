@@ -7,7 +7,7 @@ cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 0
 deaths_count{country="BA", region="FBiH", city="Unknown"} 3
 # RS Banja Luka
-cases_count{country="BA", region="RS", city="Banja Luka"} 80
+cases_count{country="BA", region="RS", city="Banja Luka"} 81
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # RS Laktasi
@@ -35,7 +35,7 @@ cases_count{country="BA", region="RS", city="Ribnik"} 1
 recovered_count{country="BA", region="RS", city="Ribnik"} 0
 deaths_count{country="BA", region="RS", city="Ribnik"} 0
 # RS Kozarska Dubica
-cases_count{country="BA", region="RS", city="Kozarska Dubica"} 5
+cases_count{country="BA", region="RS", city="Kozarska Dubica"} 8
 recovered_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 deaths_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 # RS Bijeljina
@@ -79,7 +79,7 @@ cases_count{country="BA", region="FBiH", city="Gorazde"} 4
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # RS Gradiska
-cases_count{country="BA", region="RS", city="Gradiska"} 1
+cases_count{country="BA", region="RS", city="Gradiska"} 3
 recovered_count{country="BA", region="RS", city="Gradiska"} 0
 deaths_count{country="BA", region="RS", city="Gradiska"} 0
 # RS Derventa

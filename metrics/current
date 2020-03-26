@@ -123,10 +123,14 @@ cases_count{country="BA", region="FBiH", city="Breza"} 1
 recovered_count{country="BA", region="FBiH", city="Breza"} 0
 deaths_count{country="BA", region="FBiH", city="Breza"} 0
 # FBiH Grude
-cases_count{country="BA", region="FBiH", city="Grude"} 1
+cases_count{country="BA", region="FBiH", city="Grude"} 3
 recovered_count{country="BA", region="FBiH", city="Breza"} 0
 deaths_count{country="BA", region="FBiH", city="Grude"} 0
 # FBiH Siroki Brijeg
-cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 6
+cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 7
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
+# FBiH Citluk
+cases_count{country="BA", region="FBiH", city="Citluk"} 1
+recovered_count{country="BA", region="FBiH", city="Citluk"} 0
+deaths_count{country="BA", region="FBiH", city="Citluk"} 0

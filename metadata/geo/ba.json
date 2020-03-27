@@ -195,6 +195,12 @@
           "key": "Siroki Brijeg",
           "latitude": 43.3829,
           "longitude": 17.59416,
-          "name": "Siroki Brijeg"
+          "name": "Siroki Brijeg"		        
+        },
+        {
+          "key": "Kotor Varoš",
+          "latitude": 44.6169,
+          "longitude": 17.3854,
+          "name": "Kotor Varoš"
         }		        
 ]

@@ -44,7 +44,7 @@ recovered_count{country="BA", region="RS", city="Bijeljina"} 0
 deaths_count{country="BA", region="RS", city="Bijeljina"} 0
 # FBiH Zenica
 cases_count{country="BA", region="FBiH", city="Zenica"} 4
-recovered_count{country="BA", region="FBiH", city="Zenica"} 0
+recovered_count{country="BA", region="FBiH", city="Zenica"} 3
 deaths_count{country="BA", region="FBiH", city="Zenica"} 0
 # FBiH Orasje
 cases_count{country="BA", region="FBiH", city="Orasje"} 1

@@ -202,5 +202,17 @@
           "latitude": 44.6169,
           "longitude": 17.3854,
           "name": "Kotor Varoš"
-        }		        
+        },
+          {
+          "key": "Tuzla",
+          "latitude": 44.53842,
+          "longitude": 18.66709,
+          "name": "Tuzla"
+        },
+          {
+          "key": "Lukavac",
+          "latitude": 44.533627,
+          "longitude": 18.533724,
+          "name": "Lukavac"
+        }
 ]

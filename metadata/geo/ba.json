@@ -180,6 +180,12 @@
           "name": "Bosanska Krupa"
         },
         {
+          "key": "Buzim",
+          "latitude": 45.0489,
+          "longitude": 16.0240,
+          "name": "Buzim"
+        },
+        {
           "key": "Grude",
           "latitude": 43.37465,
           "longitude": 17.409625,

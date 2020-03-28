@@ -220,5 +220,11 @@
           "latitude": 44.533627,
           "longitude": 18.533724,
           "name": "Lukavac"
+        },
+          {
+          "key": "Zavidovici",
+          "latitude": 44.441946,
+          "longitude": 18.144899,
+          "name": "Zavidovici"
         }
 ]

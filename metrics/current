@@ -79,7 +79,7 @@ cases_count{country="BA", region="FBiH", city="Konjic"} 21
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 # FBiH Gorazde
-cases_count{country="BA", region="FBiH", city="Gorazde"} 5
+cases_count{country="BA", region="FBiH", city="Gorazde"} 6
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # RS Gradiska
@@ -95,7 +95,7 @@ cases_count{country="BA", region="RS", city="Celinac"} 3
 recovered_count{country="BA", region="RS", city="Celinac"} 0
 deaths_count{country="BA", region="RS", city="Celinac"} 0
 # FBiH Sarajevo
-cases_count{country="BA", region="FBiH", city="Sarajevo"} 13
+cases_count{country="BA", region="FBiH", city="Sarajevo"} 15
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # FBiH Novi Travnik
@@ -123,7 +123,7 @@ cases_count{country="BA", region="RS", city="Kotor Varoš"} 1
 recovered_count{country="BA", region="RS", city="Kotor Varoš"} 0
 deaths_count{country="BA", region="RS", city="Kotor Varoš"} 0
 # Brcko District Brcko
-cases_count{country="BA", region="Brcko District", city="Brcko"} 2
+cases_count{country="BA", region="Brcko District", city="Brcko"} 3
 recovered_count{country="BA", region="Brcko District", city="Brcko"} 0
 deaths_count{country="BA", region="Brcko District", city="Brcko"} 0
 # FBiH Breza

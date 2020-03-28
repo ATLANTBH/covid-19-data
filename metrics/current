@@ -7,7 +7,7 @@ cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 3
 deaths_count{country="BA", region="FBiH", city="Unknown"} 4
 # RS Banja Luka
-cases_count{country="BA", region="RS", city="Banja Luka"} 103
+cases_count{country="BA", region="RS", city="Banja Luka"} 104
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # RS Laktasi
@@ -83,7 +83,7 @@ cases_count{country="BA", region="FBiH", city="Gorazde"} 5
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # RS Gradiska
-cases_count{country="BA", region="RS", city="Gradiska"} 3
+cases_count{country="BA", region="RS", city="Gradiska"} 9
 recovered_count{country="BA", region="RS", city="Gradiska"} 0
 deaths_count{country="BA", region="RS", city="Gradiska"} 0
 # RS Derventa
@@ -135,7 +135,7 @@ cases_count{country="BA", region="FBiH", city="Grude"} 4
 recovered_count{country="BA", region="FBiH", city="Grude"} 0
 deaths_count{country="BA", region="FBiH", city="Grude"} 0
 # FBiH Siroki Brijeg
-cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 9
+cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 12
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 # FBiH Citluk

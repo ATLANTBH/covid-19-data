@@ -43,7 +43,7 @@ cases_count{country="BA", region="RS", city="Bijeljina"} 4
 recovered_count{country="BA", region="RS", city="Bijeljina"} 0
 deaths_count{country="BA", region="RS", city="Bijeljina"} 0
 # FBiH Zenica
-cases_count{country="BA", region="FBiH", city="Zenica"} 4
+cases_count{country="BA", region="FBiH", city="Zenica"} 5
 recovered_count{country="BA", region="FBiH", city="Zenica"} 0
 deaths_count{country="BA", region="FBiH", city="Zenica"} 0
 # FBiH Orasje
@@ -150,3 +150,7 @@ deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 cases_count{country="BA", region="FBiH", city="Lukavac"} 1
 recovered_count{country="BA", region="FBiH", city="Lukavac"} 0
 deaths_count{country="BA", region="FBiH", city="Lukavac"} 0
+# FBiH Zavidovici
+cases_count{country="BA", region="FBiH", city="Zavidovici"} 1
+recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0
+deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0

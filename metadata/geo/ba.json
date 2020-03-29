@@ -39,7 +39,7 @@
           "key": "Laktasi",
           "latitude": 44.90857,
           "longitude": 17.30135,
-          "name": "Laktasi"
+          "name": "Laktaši"
         },
         {
           "key": "Srbac",
@@ -51,13 +51,13 @@
           "key": "Orasje",
           "latitude": 45.03366,
           "longitude": 18.69334,
-          "name": "Orasje"
+          "name": "Orašje"
         },
         {
           "key": "Tesanj",
           "latitude": 44.61191,
           "longitude": 17.98552,
-          "name": "Tesanj"
+          "name": "Tešanj"
         },
         {
           "key": "Prnjavor",
@@ -105,7 +105,7 @@
           "key": "Gorazde",
           "latitude": 43.66795,
           "longitude": 18.97564,
-          "name": "Gorazde"
+          "name": "Goražde"
         },
         {
           "key": "Derventa",
@@ -117,13 +117,13 @@
           "key": "Gradiska",
           "latitude": 45.14484,
           "longitude": 17.25453,
-          "name": "Gradiska"
+          "name": "Gradiška"
         },
           {
           "key": "Celinac",
           "latitude": 44.72453,
           "longitude": 17.32431,
-          "name": "Celinac"
+          "name": "Čelinac"
         },
           {
           "key": "Novi Travnik",
@@ -135,13 +135,13 @@
           "key": "Knezevo",
           "latitude": 44.4685,
           "longitude": 17.3921,
-          "name": "Knezevo"
+          "name": "Kneževo"
         },
           {
           "key": "Brcko",
           "latitude": 44.87278,
           "longitude": 18.80833,
-          "name": "Brcko"
+          "name": "Brčko"
         },
         {
           "key": "Visoko",
@@ -159,13 +159,13 @@
           "key": "Modrica",
           "latitude": 44.9544444,
           "longitude": 18.3036111,
-          "name": "Modrica"
+          "name": "Modriča"
         },
         {
           "key": "Teslic",
           "latitude": 44.60639,
           "longitude": 17.85972,
-          "name": "Teslic"
+          "name": "Teslić"
         },
         {
           "key": "Bosanski Brod",
@@ -183,7 +183,7 @@
           "key": "Buzim",
           "latitude": 45.0489,
           "longitude": 16.0240,
-          "name": "Buzim"
+          "name": "Bužim"
         },
         {
           "key": "Grude",
@@ -195,16 +195,16 @@
           "key": "Citluk",
           "latitude": 43.22861,
           "longitude": 17.70083,
-          "name": "Citluk"
+          "name": "Čitluk"
         },
         {
           "key": "Siroki Brijeg",
           "latitude": 43.3829,
           "longitude": 17.59416,
-          "name": "Siroki Brijeg"		        
+          "name": "Široki Brijeg"		        
         },
         {
-          "key": "Kotor Varoš",
+          "key": "Kotor Varos",
           "latitude": 44.6169,
           "longitude": 17.3854,
           "name": "Kotor Varoš"
@@ -225,13 +225,13 @@
           "key": "Posusje",
           "latitude": 43.4720,
           "longitude": 17.3297,
-          "name": "Posusje"
+          "name": "Posušje"
         },
           {
           "key": "Zavidovici",
           "latitude": 44.441946,
           "longitude": 18.144899,
-          "name": "Zavidovici"
+          "name": "Zavidovići"
         },
           {
           "key": "Ribnik",

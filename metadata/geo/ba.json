@@ -232,5 +232,11 @@
           "latitude": 44.441946,
           "longitude": 18.144899,
           "name": "Zavidovici"
+        },
+          {
+          "key": "Ribnik",
+          "latitude": 44.415487,
+          "longitude": 16.809548,
+          "name": "Ribnik"
         }
 ]

@@ -75,7 +75,7 @@ cases_count{country="BA", region="FBiH", city="Konjic"} 25
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 # FBiH Posusje
-cases_count{country="BA", region="FBiH", city="Posusje"} 5
+cases_count{country="BA", region="FBiH", city="Posusje"} 3
 recovered_count{country="BA", region="FBiH", city="Posusje"} 0
 deaths_count{country="BA", region="FBiH", city="Posusje"} 0
 # FBiH Gorazde

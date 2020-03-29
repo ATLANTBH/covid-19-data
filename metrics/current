@@ -139,7 +139,7 @@ cases_count{country="BA", region="FBiH", city="Grude"} 4
 recovered_count{country="BA", region="FBiH", city="Grude"} 0
 deaths_count{country="BA", region="FBiH", city="Grude"} 0
 # FBiH Siroki Brijeg
-cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 12
+cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 13
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 # FBiH Citluk

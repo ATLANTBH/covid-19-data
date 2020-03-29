@@ -125,7 +125,7 @@ deaths_count{country="BA", region="RS", city="Kotor Varos"} 0
 # RS Ribnik
 cases_count{country="BA", region="RS", city="Ribnik"} 2
 recovered_count{country="BA", region="RS", city="Ribnik"} 0
-deaths_count{country="BA", region="RS", city="Ribnik"} 1
+deaths_count{country="BA", region="RS", city="Ribnik"} 0
 # Brcko District Brcko
 cases_count{country="BA", region="Brcko District", city="Brcko"} 3
 recovered_count{country="BA", region="Brcko District", city="Brcko"} 0

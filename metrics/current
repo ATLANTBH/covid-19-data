@@ -123,9 +123,9 @@ cases_count{country="BA", region="RS", city="Teslic"} 6
 recovered_count{country="BA", region="RS", city="Teslic"} 0
 deaths_count{country="BA", region="RS", city="Teslic"} 0
 # RS Kotor Varos
-cases_count{country="BA", region="RS", city="Kotor Varoš"} 2
+cases_count{country="BA", region="RS", city="Kotor Varos"} 2
 recovered_count{country="BA", region="RS", city="Kotor Varoš"} 0
-deaths_count{country="BA", region="RS", city="Kotor Varoš"} 0
+deaths_count{country="BA", region="RS", city="Kotor Varos"} 0
 # RS Ribnik
 cases_count{country="BA", region="RS", city="Ribnik"} 1
 recovered_count{country="BA", region="RS", city="Kotor Varoš"} 0

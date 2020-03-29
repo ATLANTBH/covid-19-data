@@ -151,7 +151,7 @@ cases_count{country="BA", region="FBiH", city="Citluk"} 2
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Tuzla
-cases_count{country="BA", region="FBiH", city="Tuzla"} 8
+cases_count{country="BA", region="FBiH", city="Tuzla"} 17
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Lukavac

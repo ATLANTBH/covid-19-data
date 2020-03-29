@@ -126,6 +126,10 @@ deaths_count{country="BA", region="RS", city="Teslic"} 0
 cases_count{country="BA", region="RS", city="Kotor Varoš"} 2
 recovered_count{country="BA", region="RS", city="Kotor Varoš"} 0
 deaths_count{country="BA", region="RS", city="Kotor Varoš"} 0
+# RS Ribnik
+cases_count{country="BA", region="RS", city="Ribnik"} 1
+recovered_count{country="BA", region="RS", city="Kotor Varoš"} 0
+deaths_count{country="BA", region="RS", city="Ribnik"} 1
 # Brcko District Brcko
 cases_count{country="BA", region="Brcko District", city="Brcko"} 3
 recovered_count{country="BA", region="Brcko District", city="Brcko"} 0

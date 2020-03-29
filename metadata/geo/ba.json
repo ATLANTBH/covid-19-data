@@ -24,6 +24,12 @@
           "name": "Tuzla"
         },
         {
+          "key": "Zivinice",
+          "latitude": 44.44929,
+          "longitude": 18.64978,
+          "name": "Živinice"
+        },
+        {
           "key": "Mostar",
           "latitude": 43.343033,
           "longitude": 17.807894,

@@ -31,9 +31,9 @@ cases_count{country="BA", region="RS", city="Prijedor"} 2
 recovered_count{country="BA", region="RS", city="Prijedor"} 0
 deaths_count{country="BA", region="RS", city="Prijedor"} 0
 # RS Ribnik
-cases_count{country="BA", region="RS", city="Ribnik"} 1
+cases_count{country="BA", region="RS", city="Ribnik"} 2
 recovered_count{country="BA", region="RS", city="Ribnik"} 0
-deaths_count{country="BA", region="RS", city="Ribnik"} 0
+deaths_count{country="BA", region="RS", city="Ribnik"} 1
 # RS Kozarska Dubica
 cases_count{country="BA", region="RS", city="Kozarska Dubica"} 8
 recovered_count{country="BA", region="RS", city="Kozarska Dubica"} 0

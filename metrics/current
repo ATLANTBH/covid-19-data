@@ -182,3 +182,7 @@ deaths_count{country="BA", region="FBiH", city="Gornji Vakuf - Uskoplje"} 0
 cases_count{country="BA", region="FBiH", city="Cazin"} 1
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
+# FBiH Kakanj
+cases_count{country="BA", region="FBiH", city="Kakanj"} 3
+recovered_count{country="BA", region="FBiH", city="Kakanj"} 0
+deaths_count{country="BA", region="FBiH", city="Kakanj"} 0

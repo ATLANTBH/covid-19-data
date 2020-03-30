@@ -256,5 +256,11 @@
           "latitude": 44.228653,
           "longitude": 17.646547,
           "name": "Travnik"
+        },
+          {
+          "key": "Srebrenik",
+          "latitude": 44.704778,
+          "longitude": 18.492807,
+          "name": "Srebrenik"
         }
 ]

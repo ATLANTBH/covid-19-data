@@ -23,7 +23,7 @@ cases_count{country="BA", region="RS", city="Prnjavor"} 5
 recovered_count{country="BA", region="RS", city="Prnjavor"} 0
 deaths_count{country="BA", region="RS", city="Prnjavor"} 0
 # RS Doboj
-cases_count{country="BA", region="RS", city="Doboj"} 2
+cases_count{country="BA", region="RS", city="Doboj"} 1
 recovered_count{country="BA", region="RS", city="Doboj"} 0
 deaths_count{country="BA", region="RS", city="Doboj"} 0
 # RS Prijedor

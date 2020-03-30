@@ -99,9 +99,9 @@ cases_count{country="BA", region="FBiH", city="Sarajevo"} 16
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # FBiH Novi Travnik
-cases_count{country="BA", region="FBiH", city="Nravnik"} 1
-recovered_count{country="BA", region="FBiH", city="Nravnik"} 0
-deaths_count{country="BA", region="FBiH", city="Nravnik"} 0
+cases_count{country="BA", region="FBiH", city="Novi Travnik"} 1
+recovered_count{country="BA", region="FBiH", city="Novi Travnik"} 0
+deaths_count{country="BA", region="FBiH", city="Novi Travnik"} 0
 # FBiH Travnik
 cases_count{country="BA", region="FBiH", city="Travnik"} 2
 recovered_count{country="BA", region="FBiH", city="Travnik"} 0

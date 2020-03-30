@@ -262,5 +262,17 @@
           "latitude": 44.704778,
           "longitude": 18.492807,
           "name": "Srebrenik"
+        },
+          {
+          "key": "Cazin",
+          "latitude": 44.965223,
+          "longitude": 15.939566,
+          "name": "Cazin"
+        },
+          {
+          "key": "Gornji Vakuf - Uskoplje",
+          "latitude": 43.938518,
+          "longitude": 17.588726,
+          "name": "Gornji Vakuf - Uskoplje"
         }
 ]

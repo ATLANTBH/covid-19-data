@@ -250,5 +250,11 @@
           "latitude": 44.429457,
           "longitude": 18.037963,
           "name": "Žepče"
+        },
+          {
+          "key": "Travnik",
+          "latitude": 44.228653,
+          "longitude": 17.646547,
+          "name": "Travnik"
         }
 ]

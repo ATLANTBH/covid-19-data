@@ -95,11 +95,11 @@ cases_count{country="BA", region="RS", city="Celinac"} 3
 recovered_count{country="BA", region="RS", city="Celinac"} 0
 deaths_count{country="BA", region="RS", city="Celinac"} 0
 # FBiH Sarajevo
-cases_count{country="BA", region="FBiH", city="Sarajevo"} 15
+cases_count{country="BA", region="FBiH", city="Sarajevo"} 16
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # FBiH Novi Travnik
-cases_count{country="BA", region="FBiH", city="Novi Travnik"} 1
+cases_count{country="BA", region="FBiH", city="Novi Travnik"} 2
 recovered_count{country="BA", region="FBiH", city="Novi Travnik"} 0
 deaths_count{country="BA", region="FBiH", city="Novi Travnik"} 0
 # RS Knezevo

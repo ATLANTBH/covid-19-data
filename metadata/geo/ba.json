@@ -244,5 +244,11 @@
           "latitude": 44.415487,
           "longitude": 16.809548,
           "name": "Ribnik"
+        },
+          {
+          "key": "Zepce",
+          "latitude": 44.429457,
+          "longitude": 18.037963,
+          "name": "Žepče"
         }
 ]

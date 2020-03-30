@@ -274,5 +274,11 @@
           "latitude": 43.938518,
           "longitude": 17.588726,
           "name": "Gornji Vakuf - Uskoplje"
+        },
+        {
+          "key": "Kakanj",
+          "latitude": 44.13311,
+          "longitude": 18.12292,
+          "name": "Kakanj"
         }
 ]

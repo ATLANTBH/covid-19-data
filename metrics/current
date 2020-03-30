@@ -2,10 +2,10 @@
 cases_count{country="BA", region="RS", city="Unknown"} 0
 recovered_count{country="BA", region="RS", city="Unknown"} 2
 deaths_count{country="BA", region="RS", city="Unknown"} 1
-# FBiH Unknown
-cases_count{country="BA", region="FBiH", city="Unknown"} 0
-recovered_count{country="BA", region="FBiH", city="Unknown"} 6
-deaths_count{country="BA", region="FBiH", city="Unknown"} 5
+# F BiH Unknown
+cases_count{country="BA", region="F BiH", city="Unknown"} 0
+recovered_count{country="BA", region="F BiH", city="Unknown"} 6
+deaths_count{country="BA", region="F BiH", city="Unknown"} 5
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 133
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
@@ -151,7 +151,7 @@ cases_count{country="BA", region="FBiH", city="Citluk"} 7
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Tuzla
-cases_count{country="BA", region="FBiH", city="Tuzla"} 17
+cases_count{country="BA", region="FBiH", city="Tuzla"} 20
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Zivinice
@@ -170,3 +170,7 @@ deaths_count{country="BA", region="FBiH", city="Lukavac"} 0
 cases_count{country="BA", region="FBiH", city="Zavidovici"} 3
 recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0
 deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0
+# FBiH Srebrenik
+cases_count{country="BA", region="FBiH", city="Srebrenik"} 8
+recovered_count{country="BA", region="FBiH", city="Srebrenik"} 0
+deaths_count{country="BA", region="FBiH", city="Srebrenik"} 0

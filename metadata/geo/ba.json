@@ -304,5 +304,11 @@
           "latitude": 43.831285,
           "longitude": 18.303909,
           "name": "Ilidža"
+        },
+        {
+          "key": "Zvornik",
+          "latitude": 44.386412,
+          "longitude": 19.104999,
+          "name": "Zvornik"
         }
 ]

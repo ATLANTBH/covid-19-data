@@ -12,4 +12,3 @@ The data is sourced from local media, thus subject to errors
 
 ### Contribute
 Send a PR for prometheus metrics, indicating the data source (link to the news).
-

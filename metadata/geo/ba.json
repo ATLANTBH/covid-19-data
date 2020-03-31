@@ -280,5 +280,23 @@
           "latitude": 44.13311,
           "longitude": 18.12292,
           "name": "Kakanj"
+        },
+        {
+          "key": "Ilijas",
+          "latitude": 43.947756,
+          "longitude": 18.265517,
+          "name": "Ilijaš"
+        },
+        {
+          "key": "Vogosca",
+          "latitude": 43.900735,
+          "longitude": 18.344933,
+          "name": "Vogošća"
+        },
+        {
+          "key": "Ilidza",
+          "latitude": 43.831285,
+          "longitude": 18.303909,
+          "name": "Ilidža"
         }
 ]

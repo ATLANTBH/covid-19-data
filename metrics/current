@@ -207,9 +207,13 @@ cases_count{country="BA", region="RS", city="Milici"} 1
 recovered_count{country="BA", region="RS", city="Milici"} 0
 deaths_count{country="BA", region="RS", city="Milici"} 0
 # RS Zvornik
-cases_count{country="BA", region="RS", city="Zvornik"} 2
+cases_count{country="BA", region="RS", city="Zvornik"} 1
 recovered_count{country="BA", region="RS", city="Zvornik"} 0
 deaths_count{country="BA", region="RS", city="Zvornik"} 0
+# RS Sekovici
+cases_count{country="BA", region="RS", city="Sekovici"} 1
+recovered_count{country="BA", region="RS", city="Sekovici"} 0
+deaths_count{country="BA", region="RS", city="Sekovici"} 0
 # FBiH Velika Kladusa
 cases_count{country="BA", region="FBiH", city="Velika Kladusa"} 1
 recovered_count{country="BA", region="FBiH", city="Velika Kladusa"} 0

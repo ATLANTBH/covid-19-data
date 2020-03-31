@@ -163,7 +163,7 @@ cases_count{country="BA", region="FBiH", city="Citluk"} 11
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Tuzla
-cases_count{country="BA", region="FBiH", city="Tuzla"} 23
+cases_count{country="BA", region="FBiH", city="Tuzla"} 28
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Zivinice
@@ -175,7 +175,7 @@ cases_count{country="BA", region="FBiH", city="Zepce"} 1
 recovered_count{country="BA", region="FBiH", city="Zepce"} 0
 deaths_count{country="BA", region="FBiH", city="Zepce"} 0
 # FBiH Lukavac
-cases_count{country="BA", region="FBiH", city="Lukavac"} 1
+cases_count{country="BA", region="FBiH", city="Lukavac"} 2
 recovered_count{country="BA", region="FBiH", city="Lukavac"} 0
 deaths_count{country="BA", region="FBiH", city="Lukavac"} 0
 # FBiH Zavidovici
@@ -183,7 +183,7 @@ cases_count{country="BA", region="FBiH", city="Zavidovici"} 3
 recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0
 deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0
 # FBiH Srebrenik
-cases_count{country="BA", region="FBiH", city="Srebrenik"} 8
+cases_count{country="BA", region="FBiH", city="Srebrenik"} 9
 recovered_count{country="BA", region="FBiH", city="Srebrenik"} 0
 deaths_count{country="BA", region="FBiH", city="Srebrenik"} 0
 # FBiH Gornji Vakuf - Uskoplje

@@ -310,5 +310,11 @@
           "latitude": 44.386412,
           "longitude": 19.104999,
           "name": "Zvornik"
+        },
+        {
+          "key": "Velika Kladusa",
+          "latitude": 45.183971,
+          "longitude": 15.806837,
+          "name": "Velika Kladusa"
         }
 ]

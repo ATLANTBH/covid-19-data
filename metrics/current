@@ -51,7 +51,7 @@ cases_count{country="BA", region="FBiH", city="Tesanj"} 2
 recovered_count{country="BA", region="FBiH", city="Tesanj"} 0
 deaths_count{country="BA", region="FBiH", city="Tesanj"} 0
 # FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 8
+cases_count{country="BA", region="FBiH", city="Bihac"} 10
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Buzim
@@ -71,7 +71,7 @@ cases_count{country="BA", region="FBiH", city="Mostar"} 17
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Konjic
-cases_count{country="BA", region="FBiH", city="Konjic"} 26
+cases_count{country="BA", region="FBiH", city="Konjic"} 27
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 # FBiH Posusje
@@ -159,7 +159,7 @@ cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 14
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 11
+cases_count{country="BA", region="FBiH", city="Citluk"} 15
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Tuzla
@@ -187,7 +187,7 @@ cases_count{country="BA", region="FBiH", city="Srebrenik"} 9
 recovered_count{country="BA", region="FBiH", city="Srebrenik"} 0
 deaths_count{country="BA", region="FBiH", city="Srebrenik"} 0
 # FBiH Gornji Vakuf - Uskoplje
-cases_count{country="BA", region="FBiH", city="Gornji Vakuf - Uskoplje"} 1
+cases_count{country="BA", region="FBiH", city="Gornji Vakuf - Uskoplje"} 2
 recovered_count{country="BA", region="FBiH", city="Gornji Vakuf - Uskoplje"} 0
 deaths_count{country="BA", region="FBiH", city="Gornji Vakuf - Uskoplje"} 0
 # FBiH Cazin
@@ -210,3 +210,7 @@ deaths_count{country="BA", region="RS", city="Milici"} 0
 cases_count{country="BA", region="RS", city="Zvornik"} 2
 recovered_count{country="BA", region="RS", city="Zvornik"} 0
 deaths_count{country="BA", region="RS", city="Zvornik"} 0
+# FBiH Velika Kladusa
+cases_count{country="BA", region="FBiH", city="Velika Kladusa"} 1
+recovered_count{country="BA", region="FBiH", city="Velika Kladusa"} 0
+deaths_count{country="BA", region="FBiH", city="Velika Kladusa"} 0

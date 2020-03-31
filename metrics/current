@@ -1,7 +1,7 @@
 # RS Unknown
 cases_count{country="BA", region="RS", city="Unknown"} 0
 recovered_count{country="BA", region="RS", city="Unknown"} 11
-deaths_count{country="BA", region="RS", city="Unknown"} 1
+deaths_count{country="BA", region="RS", city="Unknown"} 3
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 6

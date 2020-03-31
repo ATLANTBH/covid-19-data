@@ -54,6 +54,12 @@
           "name": "Srbac"
         },
         {
+          "key": "Milici",
+          "latitude": 44.17016,
+          "longitude": 19.09195,
+          "name": "Milići"
+        },
+        {
           "key": "Orasje",
           "latitude": 45.03366,
           "longitude": 18.69334,

@@ -312,6 +312,12 @@
           "name": "Zvornik"
         },
         {
+          "key": "Sekovici",
+          "latitude": 44.389660,
+          "longitude": 19.102034,
+          "name": "Sekovici"
+        },
+        {
           "key": "Velika Kladusa",
           "latitude": 45.183971,
           "longitude": 15.806837,

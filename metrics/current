@@ -7,11 +7,11 @@ cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 6
 deaths_count{country="BA", region="FBiH", city="Unknown"} 9
 # RS Banja Luka
-cases_count{country="BA", region="RS", city="Banja Luka"} 133
+cases_count{country="BA", region="RS", city="Banja Luka"} 153
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # RS Laktasi
-cases_count{country="BA", region="RS", city="Laktasi"} 12
+cases_count{country="BA", region="RS", city="Laktasi"} 16
 recovered_count{country="BA", region="RS", city="Laktasi"} 0
 deaths_count{country="BA", region="RS", city="Laktasi"} 0
 # RS Srbac
@@ -163,7 +163,7 @@ cases_count{country="BA", region="FBiH", city="Citluk"} 11
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Tuzla
-cases_count{country="BA", region="FBiH", city="Tuzla"} 28
+cases_count{country="BA", region="FBiH", city="Tuzla"} 25
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Zivinice
@@ -198,3 +198,7 @@ deaths_count{country="BA", region="FBiH", city="Cazin"} 0
 cases_count{country="BA", region="FBiH", city="Kakanj"} 3
 recovered_count{country="BA", region="FBiH", city="Kakanj"} 0
 deaths_count{country="BA", region="FBiH", city="Kakanj"} 0
+# RS Sipovo
+cases_count{country="BA", region="RS", city="Sipovo"} 1
+recovered_count{country="BA", region="RS", city="Sipovo"} 0
+deaths_count{country="BA", region="RS", city="Sipovo"} 0

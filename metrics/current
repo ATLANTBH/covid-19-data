@@ -202,3 +202,8 @@ deaths_count{country="BA", region="FBiH", city="Kakanj"} 0
 cases_count{country="BA", region="RS", city="Sipovo"} 1
 recovered_count{country="BA", region="RS", city="Sipovo"} 0
 deaths_count{country="BA", region="RS", city="Sipovo"} 0
+# RS Milici
+cases_count{country="BA", region="RS", city="Milici"} 1
+recovered_count{country="BA", region="RS", city="Milici"} 0
+deaths_count{country="BA", region="RS", city="Milici"} 0
+

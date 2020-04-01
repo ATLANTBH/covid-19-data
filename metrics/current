@@ -135,7 +135,7 @@ cases_count{country="BA", region="RS", city="Knezevo"} 5
 recovered_count{country="BA", region="RS", city="Knezevo"} 0
 deaths_count{country="BA", region="RS", city="Knezevo"} 0
 # RS Modrica
-cases_count{country="BA", region="RS", city="Modrica"} 2
+cases_count{country="BA", region="RS", city="Modrica"} 3
 recovered_count{country="BA", region="RS", city="Modrica"} 0
 deaths_count{country="BA", region="RS", city="Modrica"} 0
 # RS Bosanski Brod
@@ -238,3 +238,11 @@ deaths_count{country="BA", region="RS", city="Mrkonjic Grad"} 0
 cases_count{country="BA", region="FBiH", city="Vitez"} 1
 recovered_count{country="BA", region="FBiH", city="Vitez"} 0
 deaths_count{country="BA", region="FBiH", city="Vitez"} 0
+# RS Istocna Ilidza
+cases_count{country="BA", region="RS", city="Istocna Ilidza"} 2
+recovered_count{country="BA", region="RS", city="Istocna Ilidza"} 0
+deaths_count{country="BA", region="RS", city="Istocna Ilidza"} 0
+# FBiH Gracanica
+cases_count{country="BA", region="FBiH", city="Gracanica"} 1
+recovered_count{country="BA", region="FBiH", city="Gracanica"} 0
+deaths_count{country="BA", region="FBiH", city="Gracanica"} 0

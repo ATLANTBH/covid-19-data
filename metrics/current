@@ -18,10 +18,6 @@ deaths_count{country="BA", region="RS", city="Laktasi"} 0
 cases_count{country="BA", region="RS", city="Pale"} 2
 recovered_count{country="BA", region="RS", city="Pale"} 0
 deaths_count{country="BA", region="RS", city="Pale"} 0
-# RS Istocno Sarajevo
-cases_count{country="BA", region="RS", city="Istocno Sarajevo"} 2
-recovered_count{country="BA", region="RS", city="Istocno Sarajevo"} 0
-deaths_count{country="BA", region="RS", city="Istocno Sarajevo"} 0
 # RS Srbac
 cases_count{country="BA", region="RS", city="Srbac"} 1
 recovered_count{country="BA", region="RS", city="Srbac"} 0

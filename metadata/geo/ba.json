@@ -358,5 +358,11 @@
           "latitude": 43.792309,
           "longitude": 18.371010,
           "name": "Istočna Ilidža"
+        },
+        {
+          "key": "Sipovo",
+          "latitude": 44.282567,
+          "longitude": 17.085457,
+          "name": "Šipovo"
         }
 ]

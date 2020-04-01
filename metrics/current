@@ -47,11 +47,11 @@ cases_count{country="BA", region="RS", city="Bijeljina"} 5
 recovered_count{country="BA", region="RS", city="Bijeljina"} 0
 deaths_count{country="BA", region="RS", city="Bijeljina"} 0
 # FBiH Zenica
-cases_count{country="BA", region="FBiH", city="Zenica"} 12
+cases_count{country="BA", region="FBiH", city="Zenica"} 15
 recovered_count{country="BA", region="FBiH", city="Zenica"} 0
 deaths_count{country="BA", region="FBiH", city="Zenica"} 0
 # FBiH Orasje
-cases_count{country="BA", region="FBiH", city="Orasje"} 1
+cases_count{country="BA", region="FBiH", city="Orasje"} 2
 recovered_count{country="BA", region="FBiH", city="Orasje"} 0
 deaths_count{country="BA", region="FBiH", city="Orasje"} 0
 # FBiH Tesanj
@@ -107,7 +107,7 @@ cases_count{country="BA", region="FBiH", city="Sarajevo"} 11
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # FBiH Ilidza
-cases_count{country="BA", region="FBiH", city="Ilidza"} 10
+cases_count{country="BA", region="FBiH", city="Ilidza"} 11
 recovered_count{country="BA", region="FBiH", city="Ilidza"} 0
 deaths_count{country="BA", region="FBiH", city="Ilidza"} 0
 # FBiH Ilijas
@@ -191,7 +191,7 @@ cases_count{country="BA", region="FBiH", city="Zavidovici"} 4
 recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0
 deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0
 # FBiH Srebrenik
-cases_count{country="BA", region="FBiH", city="Srebrenik"} 9
+cases_count{country="BA", region="FBiH", city="Srebrenik"} 10
 recovered_count{country="BA", region="FBiH", city="Srebrenik"} 0
 deaths_count{country="BA", region="FBiH", city="Srebrenik"} 0
 # FBiH Gornji Vakuf - Uskoplje

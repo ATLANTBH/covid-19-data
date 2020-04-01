@@ -340,5 +340,11 @@
           "latitude": 44.416493,
           "longitude": 17.085130,
           "name": "Mrkonjić grad"
+        },
+        {
+          "key": "Jablanica",
+          "latitude": 43.659326,
+          "longitude": 17.762744,
+          "name": "Jablanica"
         }
 ]

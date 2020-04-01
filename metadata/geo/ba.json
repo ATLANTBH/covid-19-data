@@ -322,5 +322,17 @@
           "latitude": 45.183971,
           "longitude": 15.806837,
           "name": "Velika Kladusa"
+        },
+        {
+          "key": "Istocno Sarajevo",
+          "latitude": 43.820778,
+          "longitude": 18.360670,
+          "name": "Istocno Sarajevo"
+        },
+        {
+          "key": "Pale",
+          "latitude": 43.813750,
+          "longitude": 18.570236,
+          "name": "Pale"
         }
 ]

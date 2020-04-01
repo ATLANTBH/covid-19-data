@@ -75,9 +75,13 @@ cases_count{country="BA", region="FBiH", city="Visoko"} 1
 recovered_count{country="BA", region="FBiH", city="Visoko"} 0
 deaths_count{country="BA", region="FBiH", city="Visoko"} 0
 # FBiH Mostar
-cases_count{country="BA", region="FBiH", city="Mostar"} 17
+cases_count{country="BA", region="FBiH", city="Mostar"} 19
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
+# FBiH Jablanica
+cases_count{country="BA", region="FBiH", city="Jablanica"} 1
+recovered_count{country="BA", region="FBiH", city="Jablanica"} 0
+deaths_count{country="BA", region="FBiH", city="Jablanica"} 0
 # FBiH Konjic
 cases_count{country="BA", region="FBiH", city="Konjic"} 27
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0

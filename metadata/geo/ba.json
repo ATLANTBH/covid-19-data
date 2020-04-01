@@ -174,7 +174,7 @@
           "name": "Modriča"
         },
         {
-          "key": "Teslic",
+          "key": " c",
           "latitude": 44.60639,
           "longitude": 17.85972,
           "name": "Teslić"
@@ -334,5 +334,11 @@
           "latitude": 43.813750,
           "longitude": 18.570236,
           "name": "Pale"
+        },
+        {
+          "key": "Mrkonjic grad",
+          "latitude": 44.416493,
+          "longitude": 17.085130,
+          "name": "Mrkonjić grad"
         }
 ]

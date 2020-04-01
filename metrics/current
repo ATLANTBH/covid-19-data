@@ -87,7 +87,7 @@ cases_count{country="BA", region="FBiH", city="Konjic"} 27
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 # FBiH Posusje
-cases_count{country="BA", region="FBiH", city="Posusje"} 3
+cases_count{country="BA", region="FBiH", city="Posusje"} 4
 recovered_count{country="BA", region="FBiH", city="Posusje"} 0
 deaths_count{country="BA", region="FBiH", city="Posusje"} 0
 # FBiH Gorazde
@@ -167,7 +167,7 @@ cases_count{country="BA", region="FBiH", city="Grude"} 4
 recovered_count{country="BA", region="FBiH", city="Grude"} 0
 deaths_count{country="BA", region="FBiH", city="Grude"} 0
 # FBiH Siroki Brijeg
-cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 14
+cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 15
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 # FBiH Citluk

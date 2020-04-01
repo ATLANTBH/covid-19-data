@@ -336,7 +336,7 @@
           "name": "Pale"
         },
         {
-          "key": "Mrkonjic grad",
+          "key": "Mrkonjic Grad",
           "latitude": 44.416493,
           "longitude": 17.085130,
           "name": "Mrkonjić grad"
@@ -346,5 +346,11 @@
           "latitude": 43.659326,
           "longitude": 17.762743,
           "name": "Jablanica"
+        },
+        {
+          "key": "Vitez",
+          "latitude": 44.149796,
+          "longitude": 17.792702,
+          "name": "Vitez"
         }
 ]

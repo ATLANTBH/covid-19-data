@@ -171,7 +171,7 @@ cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 14
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 15
+cases_count{country="BA", region="FBiH", city="Citluk"} 16
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Tuzla

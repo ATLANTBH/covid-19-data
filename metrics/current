@@ -234,7 +234,7 @@ deaths_count{country="BA", region="FBiH", city="Velika Kladusa"} 0
 cases_count{country="BA", region="RS", city="Mrkonjic Grad"} 1
 recovered_count{country="BA", region="RS", city="Mrkonjic Grad"} 0
 deaths_count{country="BA", region="RS", city="Mrkonjic Grad"} 0
-# RS Vitez
-cases_count{country="BA", region="RS", city="Vitez"} 1
-recovered_count{country="BA", region="RS", city="Mrkonjic Grad"} 0
-deaths_count{country="BA", region="RS", city="Vitez"} 0
+# FBiH Vitez
+cases_count{country="BA", region="FBiH", city="Vitez"} 1
+recovered_count{country="BA", region="FBiH", city="Vitez"} 0
+deaths_count{country="BA", region="FBiH", city="Vitez"} 0

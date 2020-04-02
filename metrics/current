@@ -22,6 +22,10 @@ deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 21
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
+# FBiH Citluk
+cases_count{country="BA", region="FBiH", city="Citluk"} 21
+recovered_count{country="BA", region="FBiH", city="Citluk"} 0
+deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Mostar
 cases_count{country="BA", region="FBiH", city="Mostar"} 20
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
@@ -30,10 +34,6 @@ deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 cases_count{country="BA", region="RS", city="Laktasi"} 19
 recovered_count{country="BA", region="RS", city="Laktasi"} 0
 deaths_count{country="BA", region="RS", city="Laktasi"} 0
-# FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 21
-recovered_count{country="BA", region="FBiH", city="Citluk"} 0
-deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Sarajevo
 cases_count{country="BA", region="FBiH", city="Sarajevo"} 16
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0

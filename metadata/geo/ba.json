@@ -364,5 +364,11 @@
           "latitude": 44.282567,
           "longitude": 17.085457,
           "name": "Šipovo"
+        },
+        {
+          "key": "Hadzici",
+          "latitude": 43.823117,
+          "longitude": 18.206678,
+          "name": "Hadžići"
         }
 ]

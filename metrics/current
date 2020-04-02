@@ -23,7 +23,7 @@ cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 21
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 # FBiH Mostar
-cases_count{country="BA", region="FBiH", city="Mostar"} 19
+cases_count{country="BA", region="FBiH", city="Mostar"} 20
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # RS Laktasi
@@ -31,7 +31,7 @@ cases_count{country="BA", region="RS", city="Laktasi"} 19
 recovered_count{country="BA", region="RS", city="Laktasi"} 0
 deaths_count{country="BA", region="RS", city="Laktasi"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 16
+cases_count{country="BA", region="FBiH", city="Citluk"} 21
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Sarajevo
@@ -174,6 +174,10 @@ deaths_count{country="BA", region="RS", city="Sipovo"} 0
 cases_count{country="BA", region="FBiH", city="Bosanska Krupa"} 2
 recovered_count{country="BA", region="FBiH", city="Bosanska Krupa"} 0
 deaths_count{country="BA", region="FBiH", city="Bosanska Krupa"} 0
+# FBiH Jablanica
+cases_count{country="BA", region="FBiH", city="Jablanica"} 2
+recovered_count{country="BA", region="FBiH", city="Jablanica"} 0
+deaths_count{country="BA", region="FBiH", city="Jablanica"} 0
 # FBiH Visoko
 cases_count{country="BA", region="FBiH", city="Visoko"} 1
 recovered_count{country="BA", region="FBiH", city="Visoko"} 0
@@ -234,10 +238,6 @@ deaths_count{country="BA", region="RS", city="Derventa"} 0
 cases_count{country="BA", region="RS", city="Mrkonjic Grad"} 1
 recovered_count{country="BA", region="RS", city="Mrkonjic Grad"} 0
 deaths_count{country="BA", region="RS", city="Mrkonjic Grad"} 0
-# FBiH Jablanica
-cases_count{country="BA", region="FBiH", city="Jablanica"} 1
-recovered_count{country="BA", region="FBiH", city="Jablanica"} 0
-deaths_count{country="BA", region="FBiH", city="Jablanica"} 0
 # FBiH Buzim
 cases_count{country="BA", region="FBiH", city="Buzim"} 0
 recovered_count{country="BA", region="FBiH", city="Buzim"} 0

@@ -376,5 +376,17 @@
           "latitude": 44.056917,
           "longitude": 17.449121,
           "name": "Bugojno"
+        },
+        {
+          "key": "Sapna",
+          "latitude": 44.493487,
+          "longitude": 19.002088,
+          "name": "Sapna"
+        },
+        {
+          "key": "Banovici",
+          "latitude": 44.409373,
+          "longitude": 18.529479,
+          "name": "Banovići"
         }
 ]

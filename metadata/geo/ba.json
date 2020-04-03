@@ -370,5 +370,11 @@
           "latitude": 43.823117,
           "longitude": 18.206678,
           "name": "Hadžići"
+        },
+        {
+          "key": "Bugojno",
+          "latitude": 44.056917,
+          "longitude": 17.449121,
+          "name": "Bugojno"
         }
 ]

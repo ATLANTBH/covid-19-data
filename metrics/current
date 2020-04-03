@@ -50,6 +50,10 @@ deaths_count{country="BA", region="Brcko District", city="Brcko"} 0
 cases_count{country="BA", region="FBiH", city="Srebrenik"} 13
 recovered_count{country="BA", region="FBiH", city="Srebrenik"} 0
 deaths_count{country="BA", region="FBiH", city="Srebrenik"} 0
+# FBiH Bihac
+cases_count{country="BA", region="FBiH", city="Bihac"} 12
+recovered_count{country="BA", region="FBiH", city="Bihac"} 0
+deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Ilidza
 cases_count{country="BA", region="FBiH", city="Ilidza"} 11
 recovered_count{country="BA", region="FBiH", city="Ilidza"} 0
@@ -58,10 +62,6 @@ deaths_count{country="BA", region="FBiH", city="Ilidza"} 0
 cases_count{country="BA", region="RS", city="Gradiska"} 11
 recovered_count{country="BA", region="RS", city="Gradiska"} 0
 deaths_count{country="BA", region="RS", city="Gradiska"} 0
-# FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 11
-recovered_count{country="BA", region="FBiH", city="Bihac"} 0
-deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # RS Bijeljina
 cases_count{country="BA", region="RS", city="Bijeljina"} 11
 recovered_count{country="BA", region="RS", city="Bijeljina"} 0

@@ -15,7 +15,7 @@ cases_count{country="BA", region="FBiH", city="Tuzla"} 34
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 29
+cases_count{country="BA", region="FBiH", city="Citluk"} 33
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Konjic
@@ -23,7 +23,7 @@ cases_count{country="BA", region="FBiH", city="Konjic"} 27
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 # FBiH Mostar
-cases_count{country="BA", region="FBiH", city="Mostar"} 24
+cases_count{country="BA", region="FBiH", city="Mostar"} 25
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Siroki Brijeg
@@ -78,6 +78,10 @@ deaths_count{country="BA", region="RS", city="Teslic"} 0
 cases_count{country="BA", region="FBiH", city="Cazin"} 7
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
+# FBiH Jablanica
+cases_count{country="BA", region="FBiH", city="Jablanica"} 7
+recovered_count{country="BA", region="FBiH", city="Jablanica"} 0
+deaths_count{country="BA", region="FBiH", city="Jablanica"} 0
 # FBiH Vitez
 cases_count{country="BA", region="FBiH", city="Vitez"} 6
 recovered_count{country="BA", region="FBiH", city="Vitez"} 0
@@ -90,10 +94,6 @@ deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 cases_count{country="BA", region="RS", city="Kotor Varos"} 6
 recovered_count{country="BA", region="RS", city="Kotor Varos"} 0
 deaths_count{country="BA", region="RS", city="Kotor Varos"} 0
-# FBiH Jablanica
-cases_count{country="BA", region="FBiH", city="Jablanica"} 6
-recovered_count{country="BA", region="FBiH", city="Jablanica"} 0
-deaths_count{country="BA", region="FBiH", city="Jablanica"} 0
 # FBiH Gornji Vakuf - Uskoplje
 cases_count{country="BA", region="FBiH", city="Gornji Vakuf - Uskoplje"} 6
 recovered_count{country="BA", region="FBiH", city="Gornji Vakuf - Uskoplje"} 0

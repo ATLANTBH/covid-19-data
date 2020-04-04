@@ -388,5 +388,11 @@
           "latitude": 44.409373,
           "longitude": 18.529479,
           "name": "Banovići"
+        },
+        {
+          "key": "Livno",
+          "latitude": 43.825023,
+          "longitude": 17.005738,
+          "name": "Livno"
         }
 ]

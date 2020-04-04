@@ -5,13 +5,13 @@ deaths_count{country="BA", region="RS", city="Unknown"} 7
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 6
-deaths_count{country="BA", region="FBiH", city="Unknown"} 11
+deaths_count{country="BA", region="FBiH", city="Unknown"} 12
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 186
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Tuzla
-cases_count{country="BA", region="FBiH", city="Tuzla"} 34
+cases_count{country="BA", region="FBiH", city="Tuzla"} 35
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Citluk
@@ -55,7 +55,7 @@ cases_count{country="BA", region="FBiH", city="Bihac"} 13
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Ilidza
-cases_count{country="BA", region="FBiH", city="Ilidza"} 11
+cases_count{country="BA", region="FBiH", city="Ilidza"} 12
 recovered_count{country="BA", region="FBiH", city="Ilidza"} 0
 deaths_count{country="BA", region="FBiH", city="Ilidza"} 0
 # RS Gradiska

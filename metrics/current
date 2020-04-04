@@ -254,6 +254,10 @@ deaths_count{country="BA", region="RS", city="Sapna"} 0
 cases_count{country="BA", region="FBiH", city="Livno"} 1
 recovered_count{country="BA", region="FBiH", city="Livno"} 0
 deaths_count{country="BA", region="FBiH", city="Livno"} 0
+# FBiH Capljina
+cases_count{country="BA", region="FBiH", city="Capljina"} 1
+recovered_count{country="BA", region="FBiH", city="Capljina"} 0
+deaths_count{country="BA", region="FBiH", city="Capljina"} 0
 # FBiH Buzim
 cases_count{country="BA", region="FBiH", city="Buzim"} 0
 recovered_count{country="BA", region="FBiH", city="Buzim"} 0

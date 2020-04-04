@@ -51,7 +51,7 @@ cases_count{country="BA", region="FBiH", city="Srebrenik"} 13
 recovered_count{country="BA", region="FBiH", city="Srebrenik"} 0
 deaths_count{country="BA", region="FBiH", city="Srebrenik"} 0
 # FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 13
+cases_count{country="BA", region="FBiH", city="Bihac"} 18
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Ilidza
@@ -79,7 +79,7 @@ cases_count{country="BA", region="RS", city="Sipovo"} 8
 recovered_count{country="BA", region="RS", city="Sipovo"} 0
 deaths_count{country="BA", region="RS", city="Sipovo"} 0
 # FBiH Cazin
-cases_count{country="BA", region="FBiH", city="Cazin"} 7
+cases_count{country="BA", region="FBiH", city="Cazin"} 8
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
 # FBiH Jablanica

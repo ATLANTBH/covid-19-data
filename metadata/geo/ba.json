@@ -394,5 +394,11 @@
           "latitude": 43.825023,
           "longitude": 17.005738,
           "name": "Livno"
+        },
+        {
+          "key": "Capljina",
+          "latitude": 43.112548,
+          "longitude": 17.701589,
+          "name": "Čapljina"
         }
 ]

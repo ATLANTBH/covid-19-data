@@ -79,7 +79,7 @@ cases_count{country="BA", region="RS", city="Sipovo"} 8
 recovered_count{country="BA", region="RS", city="Sipovo"} 0
 deaths_count{country="BA", region="RS", city="Sipovo"} 0
 # FBiH Cazin
-cases_count{country="BA", region="FBiH", city="Cazin"} 8
+cases_count{country="BA", region="FBiH", city="Cazin"} 9
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
 # FBiH Jablanica
@@ -115,7 +115,7 @@ cases_count{country="BA", region="RS", city="Prnjavor"} 5
 recovered_count{country="BA", region="RS", city="Prnjavor"} 0
 deaths_count{country="BA", region="RS", city="Prnjavor"} 0
 # FBiH Zavidovici
-cases_count{country="BA", region="FBiH", city="Zavidovici"} 5
+cases_count{country="BA", region="FBiH", city="Zavidovici"} 6
 recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0
 deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0
 # FBiH Posusje

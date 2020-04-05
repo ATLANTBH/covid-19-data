@@ -47,7 +47,7 @@ cases_count{country="BA", region="Brcko District", city="Brcko"} 14
 recovered_count{country="BA", region="Brcko District", city="Brcko"} 0
 deaths_count{country="BA", region="Brcko District", city="Brcko"} 0
 # FBiH Srebrenik
-cases_count{country="BA", region="FBiH", city="Srebrenik"} 13
+cases_count{country="BA", region="FBiH", city="Srebrenik"} 15
 recovered_count{country="BA", region="FBiH", city="Srebrenik"} 0
 deaths_count{country="BA", region="FBiH", city="Srebrenik"} 0
 # FBiH Bihac
@@ -194,6 +194,10 @@ deaths_count{country="BA", region="FBiH", city="Visoko"} 0
 cases_count{country="BA", region="RS", city="Doboj"} 1
 recovered_count{country="BA", region="RS", city="Doboj"} 0
 deaths_count{country="BA", region="RS", city="Doboj"} 0
+# FBiH Kalesija
+cases_count{country="BA", region="FBiH", city="Kalesija"} 1
+recovered_count{country="BA", region="FBiH", city="Kalesija"} 0
+deaths_count{country="BA", region="FBiH", city="Kalesija"} 0
 # FBiH Zivinice
 cases_count{country="BA", region="FBiH", city="Zivinice"} 1
 recovered_count{country="BA", region="FBiH", city="Zivinice"} 0

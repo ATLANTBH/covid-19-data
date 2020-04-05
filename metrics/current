@@ -5,7 +5,7 @@ deaths_count{country="BA", region="RS", city="Unknown"} 7
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 8
-deaths_count{country="BA", region="FBiH", city="Unknown"} 16
+deaths_count{country="BA", region="FBiH", city="Unknown"} 17
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 189
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
@@ -15,7 +15,7 @@ cases_count{country="BA", region="FBiH", city="Tuzla"} 40
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 34
+cases_count{country="BA", region="FBiH", city="Citluk"} 36
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Mostar

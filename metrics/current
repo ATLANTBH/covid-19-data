@@ -7,7 +7,7 @@ cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 8
 deaths_count{country="BA", region="FBiH", city="Unknown"} 14
 # RS Banja Luka
-cases_count{country="BA", region="RS", city="Banja Luka"} 186
+cases_count{country="BA", region="RS", city="Banja Luka"} 183
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Tuzla

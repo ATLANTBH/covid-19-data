@@ -11,7 +11,7 @@ cases_count{country="BA", region="RS", city="Banja Luka"} 183
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Tuzla
-cases_count{country="BA", region="FBiH", city="Tuzla"} 35
+cases_count{country="BA", region="FBiH", city="Tuzla"} 40
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Citluk
@@ -19,7 +19,7 @@ cases_count{country="BA", region="FBiH", city="Citluk"} 34
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Mostar
-cases_count{country="BA", region="FBiH", city="Mostar"} 32
+cases_count{country="BA", region="FBiH", city="Mostar"} 36
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Konjic
@@ -247,15 +247,15 @@ cases_count{country="BA", region="RS", city="Banovici"} 1
 recovered_count{country="BA", region="RS", city="Banovici"} 0
 deaths_count{country="BA", region="RS", city="Banovici"} 0
 # FBIH Sapna
-cases_count{country="BA", region="RS", city="Sapna"} 1
+cases_count{country="BA", region="RS", city="Sapna"} 4
 recovered_count{country="BA", region="RS", city="Sapna"} 0
 deaths_count{country="BA", region="RS", city="Sapna"} 0
 # FBiH Livno
-cases_count{country="BA", region="FBiH", city="Livno"} 1
+cases_count{country="BA", region="FBiH", city="Livno"} 6
 recovered_count{country="BA", region="FBiH", city="Livno"} 0
 deaths_count{country="BA", region="FBiH", city="Livno"} 0
 # FBiH Capljina
-cases_count{country="BA", region="FBiH", city="Capljina"} 1
+cases_count{country="BA", region="FBiH", city="Capljina"} 2
 recovered_count{country="BA", region="FBiH", city="Capljina"} 0
 deaths_count{country="BA", region="FBiH", city="Capljina"} 0
 # FBiH Buzim

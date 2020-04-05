@@ -35,7 +35,7 @@ cases_count{country="BA", region="RS", city="Laktasi"} 22
 recovered_count{country="BA", region="RS", city="Laktasi"} 0
 deaths_count{country="BA", region="RS", city="Laktasi"} 0
 # FBiH Sarajevo
-cases_count{country="BA", region="FBiH", city="Sarajevo"} 19
+cases_count{country="BA", region="FBiH", city="Sarajevo"} 22
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # FBiH Zenica

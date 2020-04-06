@@ -11,7 +11,7 @@ cases_count{country="BA", region="RS", city="Banja Luka"} 191
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Tuzla
-cases_count{country="BA", region="FBiH", city="Tuzla"} 40
+cases_count{country="BA", region="FBiH", city="Tuzla"} 44
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Citluk
@@ -127,7 +127,7 @@ cases_count{country="BA", region="FBiH", city="Posusje"} 4
 recovered_count{country="BA", region="FBiH", city="Posusje"} 0
 deaths_count{country="BA", region="FBiH", city="Posusje"} 0
 # FBIH Sapna
-cases_count{country="BA", region="RS", city="Sapna"} 4
+cases_count{country="BA", region="RS", city="Sapna"} 3
 recovered_count{country="BA", region="RS", city="Sapna"} 0
 deaths_count{country="BA", region="RS", city="Sapna"} 0
 # RS Ribnik

@@ -5,7 +5,7 @@ deaths_count{country="BA", region="RS", city="Unknown"} 9
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 10
-deaths_count{country="BA", region="FBiH", city="Unknown"} 17
+deaths_count{country="BA", region="FBiH", city="Unknown"} 18
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 191
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0

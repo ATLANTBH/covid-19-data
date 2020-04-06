@@ -263,10 +263,6 @@ cases_count{country="BA", region="FBiH", city="Travnik"} 1
 recovered_count{country="BA", region="FBiH", city="Travnik"} 0
 deaths_count{country="BA", region="FBiH", city="Travnik"} 0
 # FBiH Capljina
-cases_count{country="BA", region="FBiH", city="Capljina"} 2
+cases_count{country="BA", region="FBiH", city="Capljina"} 1
 recovered_count{country="BA", region="FBiH", city="Capljina"} 0
 deaths_count{country="BA", region="FBiH", city="Capljina"} 0
-# FBiH Buzim
-cases_count{country="BA", region="FBiH", city="Buzim"} 0
-recovered_count{country="BA", region="FBiH", city="Buzim"} 0
-deaths_count{country="BA", region="FBiH", city="Buzim"} 0

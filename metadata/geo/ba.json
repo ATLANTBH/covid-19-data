@@ -406,5 +406,11 @@
           "latitude": 43.112548,
           "longitude": 17.701589,
           "name": "Čapljina"
+        },
+        {
+          "key": "Odzak",
+          "latitude": 45.011033,
+          "longitude": 18.325409,
+          "name": "Odžak"
         }
 ]

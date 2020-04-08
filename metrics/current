@@ -102,10 +102,6 @@ deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0
 cases_count{country="BA", region="RS", city="Kozarska Dubica"} 8
 recovered_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 deaths_count{country="BA", region="RS", city="Kozarska Dubica"} 0
-# FBiH Gorazde
-cases_count{country="BA", region="FBiH", city="Gorazde"} 8
-recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
-deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # RS Kotor Varos
 cases_count{country="BA", region="RS", city="Kotor Varos"} 7
 recovered_count{country="BA", region="RS", city="Kotor Varos"} 0
@@ -114,6 +110,10 @@ deaths_count{country="BA", region="RS", city="Kotor Varos"} 0
 cases_count{country="BA", region="RS", city="Sapna"} 7
 recovered_count{country="BA", region="RS", city="Sapna"} 0
 deaths_count{country="BA", region="RS", city="Sapna"} 0
+# FBiH Gorazde
+cases_count{country="BA", region="FBiH", city="Gorazde"} 6
+recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
+deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # FBiH Vitez
 cases_count{country="BA", region="FBiH", city="Vitez"} 6
 recovered_count{country="BA", region="FBiH", city="Vitez"} 0

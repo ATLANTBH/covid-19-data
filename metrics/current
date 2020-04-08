@@ -83,7 +83,7 @@ cases_count{country="BA", region="FBiH", city="Capljina"} 10
 recovered_count{country="BA", region="FBiH", city="Capljina"} 0
 deaths_count{country="BA", region="FBiH", city="Capljina"} 0
 # FBiH Livno
-cases_count{country="BA", region="FBiH", city="Livno"} 10
+cases_count{country="BA", region="FBiH", city="Livno"} 12
 recovered_count{country="BA", region="FBiH", city="Livno"} 0
 deaths_count{country="BA", region="FBiH", city="Livno"} 0
 # RS Teslic

@@ -63,7 +63,7 @@ cases_count{country="BA", region="FBiH", city="Ilidza"} 15
 recovered_count{country="BA", region="FBiH", city="Ilidza"} 0
 deaths_count{country="BA", region="FBiH", city="Ilidza"} 0
 # FBiH Livno
-cases_count{country="BA", region="FBiH", city="Livno"} 12
+cases_count{country="BA", region="FBiH", city="Livno"} 15
 recovered_count{country="BA", region="FBiH", city="Livno"} 0
 deaths_count{country="BA", region="FBiH", city="Livno"} 0
 # RS Gradiska

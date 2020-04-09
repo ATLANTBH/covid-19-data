@@ -11,7 +11,7 @@ cases_count{country="BA", region="RS", city="Banja Luka"} 229
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 53
+cases_count{country="BA", region="FBiH", city="Citluk"} 68
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Tuzla
@@ -86,14 +86,14 @@ deaths_count{country="BA", region="FBiH", city="Grude"} 0
 cases_count{country="BA", region="FBiH", city="Capljina"} 10
 recovered_count{country="BA", region="FBiH", city="Capljina"} 0
 deaths_count{country="BA", region="FBiH", city="Capljina"} 0
+# FBiH Jablanica
+cases_count{country="BA", region="FBiH", city="Jablanica"} 10
+recovered_count{country="BA", region="FBiH", city="Jablanica"} 0
+deaths_count{country="BA", region="FBiH", city="Jablanica"} 0
 # RS Teslic
 cases_count{country="BA", region="RS", city="Teslic"} 9
 recovered_count{country="BA", region="RS", city="Teslic"} 0
 deaths_count{country="BA", region="RS", city="Teslic"} 0
-# FBiH Jablanica
-cases_count{country="BA", region="FBiH", city="Jablanica"} 9
-recovered_count{country="BA", region="FBiH", city="Jablanica"} 0
-deaths_count{country="BA", region="FBiH", city="Jablanica"} 0
 # FBiH Zavidovici
 cases_count{country="BA", region="FBiH", city="Zavidovici"} 10
 recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0

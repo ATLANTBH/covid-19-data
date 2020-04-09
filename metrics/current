@@ -95,7 +95,7 @@ cases_count{country="BA", region="FBiH", city="Jablanica"} 9
 recovered_count{country="BA", region="FBiH", city="Jablanica"} 0
 deaths_count{country="BA", region="FBiH", city="Jablanica"} 0
 # FBiH Zavidovici
-cases_count{country="BA", region="FBiH", city="Zavidovici"} 9
+cases_count{country="BA", region="FBiH", city="Zavidovici"} 10
 recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0
 deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0
 # RS Kozarska Dubica
@@ -115,7 +115,7 @@ cases_count{country="BA", region="RS", city="Sapna"} 7
 recovered_count{country="BA", region="RS", city="Sapna"} 0
 deaths_count{country="BA", region="RS", city="Sapna"} 0
 # FBiH Gorazde
-cases_count{country="BA", region="FBiH", city="Gorazde"} 7
+cases_count{country="BA", region="FBiH", city="Gorazde"} 8
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # FBiH Vitez

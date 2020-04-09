@@ -39,11 +39,11 @@ cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 27
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 # FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 20
+cases_count{country="BA", region="FBiH", city="Bihac"} 21
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Cazin
-cases_count{country="BA", region="FBiH", city="Cazin"} 19
+cases_count{country="BA", region="FBiH", city="Cazin"} 20
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
 # FBiH Zenica

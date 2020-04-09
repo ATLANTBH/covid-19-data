@@ -159,7 +159,7 @@ cases_count{country="BA", region="FBiH", city="Novi Travnik"} 4
 recovered_count{country="BA", region="FBiH", city="Novi Travnik"} 0
 deaths_count{country="BA", region="FBiH", city="Novi Travnik"} 0
 # RS Istocna Ilidza
-cases_count{country="BA", region="RS", city="Istocna Ilidza"} 1
+cases_count{country="BA", region="RS", city="Istocna Ilidza"} 4
 recovered_count{country="BA", region="RS", city="Istocna Ilidza"} 0
 deaths_count{country="BA", region="RS", city="Istocna Ilidza"} 0
 # FBiH Kakanj

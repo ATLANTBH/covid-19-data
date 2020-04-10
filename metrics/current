@@ -11,17 +11,17 @@ cases_count{country="BA", region="RS", city="Banja Luka"} 235
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 68
+cases_count{country="BA", region="FBiH", city="Citluk"} 71
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
+# FBiH Mostar
+cases_count{country="BA", region="FBiH", city="Mostar"} 48
+recovered_count{country="BA", region="FBiH", city="Mostar"} 0
+deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Tuzla
 cases_count{country="BA", region="FBiH", city="Tuzla"} 45
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
-# FBiH Mostar
-cases_count{country="BA", region="FBiH", city="Mostar"} 45
-recovered_count{country="BA", region="FBiH", city="Mostar"} 0
-deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Siroki Brijeg
 cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 35
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
@@ -67,7 +67,7 @@ cases_count{country="BA", region="FBiH", city="Livno"} 15
 recovered_count{country="BA", region="FBiH", city="Livno"} 0
 deaths_count{country="BA", region="FBiH", city="Livno"} 0
 # FBiH Capljina
-cases_count{country="BA", region="FBiH", city="Capljina"} 14
+cases_count{country="BA", region="FBiH", city="Capljina"} 15
 recovered_count{country="BA", region="FBiH", city="Capljina"} 0
 deaths_count{country="BA", region="FBiH", city="Capljina"} 0
 # RS Gradiska
@@ -275,10 +275,10 @@ cases_count{country="BA", region="FBiH", city="Odzak"} 1
 recovered_count{country="BA", region="FBiH", city="Odzak"} 0
 deaths_count{country="BA", region="FBiH", city="Odzak"} 0
 # RS Srebrenica
-cases_count{country="BA", region="FBiH", city="Odzak"} 1
-recovered_count{country="BA", region="FBiH", city="Odzak"} 0
-deaths_count{country="BA", region="FBiH", city="Odzak"} 0
+cases_count{country="BA", region="FBiH", city="Srebrenica"} 1
+recovered_count{country="BA", region="FBiH", city="Srebrenica"} 0
+deaths_count{country="BA", region="FBiH", city="Srebrenica"} 0
 # RS Trebinje
-cases_count{country="BA", region="FBiH", city="Odzak"} 1
-recovered_count{country="BA", region="FBiH", city="Odzak"} 0
-deaths_count{country="BA", region="FBiH", city="Odzak"} 0
+cases_count{country="BA", region="FBiH", city="Trebinje"} 1
+recovered_count{country="BA", region="FBiH", city="Trebinje"} 0
+deaths_count{country="BA", region="FBiH", city="Trebinje"} 0

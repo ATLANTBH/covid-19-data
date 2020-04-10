@@ -424,5 +424,11 @@
           "latitude": 44.103709,
           "longitude": 19.298558,
           "name": "Srebrenica"
+        },
+          {
+          "key": "Maglaj",
+          "latitude": 44.54771,
+          "longitude": 18.10003,
+          "name": "Maglaj"
         }
 ]

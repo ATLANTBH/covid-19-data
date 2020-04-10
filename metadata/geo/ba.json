@@ -412,5 +412,17 @@
           "latitude": 45.011033,
           "longitude": 18.325409,
           "name": "Odžak"
+        },
+        {
+          "key": "Trebinje",
+          "latitude": 42.709113,
+          "longitude": 18.348627,
+          "name": "Trebinje"
+        },
+        {
+          "key": "Srebrenica",
+          "latitude": 44.103709,
+          "longitude": 19.298558,
+          "name": "Srebrenica"
         }
 ]

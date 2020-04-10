@@ -11,11 +11,11 @@ cases_count{country="BA", region="RS", city="Banja Luka"} 235
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 71
+cases_count{country="BA", region="FBiH", city="Citluk"} 77
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Mostar
-cases_count{country="BA", region="FBiH", city="Mostar"} 48
+cases_count{country="BA", region="FBiH", city="Mostar"} 50
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Tuzla
@@ -31,7 +31,7 @@ cases_count{country="BA", region="RS", city="Laktasi"} 34
 recovered_count{country="BA", region="RS", city="Laktasi"} 0
 deaths_count{country="BA", region="RS", city="Laktasi"} 0
 # FBiH Sarajevo
-cases_count{country="BA", region="FBiH", city="Sarajevo"} 30
+cases_count{country="BA", region="FBiH", city="Sarajevo"} 32
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # FBiH Konjic
@@ -87,7 +87,7 @@ cases_count{country="BA", region="FBiH", city="Grude"} 11
 recovered_count{country="BA", region="FBiH", city="Grude"} 0
 deaths_count{country="BA", region="FBiH", city="Grude"} 0
 # FBiH Jablanica
-cases_count{country="BA", region="FBiH", city="Jablanica"} 10
+cases_count{country="BA", region="FBiH", city="Jablanica"} 12
 recovered_count{country="BA", region="FBiH", city="Jablanica"} 0
 deaths_count{country="BA", region="FBiH", city="Jablanica"} 0
 # FBiH Zavidovici
@@ -107,7 +107,7 @@ cases_count{country="BA", region="FBiH", city="Gornji Vakuf - Uskoplje"} 8
 recovered_count{country="BA", region="FBiH", city="Gornji Vakuf - Uskoplje"} 0
 deaths_count{country="BA", region="FBiH", city="Gornji Vakuf - Uskoplje"} 0
 # FBiH Gorazde
-cases_count{country="BA", region="FBiH", city="Gorazde"} 8
+cases_count{country="BA", region="FBiH", city="Gorazde"} 10
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # FBIH Sapna
@@ -282,3 +282,7 @@ deaths_count{country="BA", region="FBiH", city="Srebrenica"} 0
 cases_count{country="BA", region="FBiH", city="Trebinje"} 1
 recovered_count{country="BA", region="FBiH", city="Trebinje"} 0
 deaths_count{country="BA", region="FBiH", city="Trebinje"} 0
+# FBiH Maglaj
+cases_count{country="BA", region="FBiH", city="Maglaj"} 1
+recovered_count{country="BA", region="FBiH", city="Maglaj"} 0
+deaths_count{country="BA", region="FBiH", city="Maglaj"} 0

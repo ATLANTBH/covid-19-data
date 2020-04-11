@@ -425,7 +425,13 @@
           "longitude": 19.298558,
           "name": "Srebrenica"
         },
-          {
+        {
+          "key": "Kalinovik",
+          "latitude": 43.499998,
+          "longitude": 18.4499982,
+          "name": "Kalinovik"
+        },
+        {
           "key": "Maglaj",
           "latitude": 44.54771,
           "longitude": 18.10003,

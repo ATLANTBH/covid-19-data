@@ -23,7 +23,7 @@ cases_count{country="BA", region="FBiH", city="Tuzla"} 46
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Siroki Brijeg
-cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 43
+cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 48
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 # RS Laktasi

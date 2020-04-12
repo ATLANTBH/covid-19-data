@@ -39,7 +39,7 @@ cases_count{country="BA", region="FBiH", city="Konjic"} 28
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 # FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 23
+cases_count{country="BA", region="FBiH", city="Bihac"} 25
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Livno
@@ -91,7 +91,7 @@ cases_count{country="BA", region="FBiH", city="Grude"} 11
 recovered_count{country="BA", region="FBiH", city="Grude"} 0
 deaths_count{country="BA", region="FBiH", city="Grude"} 0
 # FBiH Zavidovici
-cases_count{country="BA", region="FBiH", city="Zavidovici"} 10
+cases_count{country="BA", region="FBiH", city="Zavidovici"} 13
 recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0
 deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0
 # RS Teslic
@@ -271,7 +271,7 @@ cases_count{country="BA", region="RS", city="Banovici"} 1
 recovered_count{country="BA", region="RS", city="Banovici"} 0
 deaths_count{country="BA", region="RS", city="Banovici"} 0
 # FBiH Travnik
-cases_count{country="BA", region="FBiH", city="Travnik"} 1
+cases_count{country="BA", region="FBiH", city="Travnik"} 2
 recovered_count{country="BA", region="FBiH", city="Travnik"} 0
 deaths_count{country="BA", region="FBiH", city="Travnik"} 0
 # FBiH Odzak

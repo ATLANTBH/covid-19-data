@@ -15,7 +15,7 @@ cases_count{country="BA", region="FBiH", city="Citluk"} 81
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Mostar
-cases_count{country="BA", region="FBiH", city="Mostar"} 55
+cases_count{country="BA", region="FBiH", city="Mostar"} 56
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Siroki Brijeg

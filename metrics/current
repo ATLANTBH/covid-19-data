@@ -282,6 +282,10 @@ deaths_count{country="BA", region="RS", city="Banovici"} 0
 cases_count{country="BA", region="FBiH", city="Odzak"} 1
 recovered_count{country="BA", region="FBiH", city="Odzak"} 0
 deaths_count{country="BA", region="FBiH", city="Odzak"} 0
+# FBiH Kiseljak
+cases_count{country="BA", region="FBiH", city="Kiseljak"} 1
+recovered_count{country="BA", region="FBiH", city="Kiseljak"} 0
+deaths_count{country="BA", region="FBiH", city="Kiseljak"} 0
 # RS Srebrenica
 cases_count{country="BA", region="RS", city="Srebrenica"} 1
 recovered_count{country="BA", region="RS", city="Srebrenica"} 0

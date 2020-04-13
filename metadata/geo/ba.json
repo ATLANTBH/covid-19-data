@@ -436,5 +436,11 @@
           "latitude": 44.54771,
           "longitude": 18.10003,
           "name": "Maglaj"
+        },
+        {
+          "key": "Kiseljak",
+          "latitude": 43.945559,
+          "longitude": 18.076152,
+          "name": "Kiseljak"
         }
 ]

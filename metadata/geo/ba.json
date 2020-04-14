@@ -460,5 +460,11 @@
           "latitude": 44.443217,
           "longitude": 18.875585,
           "name": "Kalesija"
+        },
+        {
+          "key": "Petrovac",
+          "latitude": 44.554994,
+          "longitude": 16.369126,
+          "name": "Bosanski Petrovac"
         }
 ]

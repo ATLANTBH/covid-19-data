@@ -1,5 +1,5 @@
 # Unknown
-cases_count{country="BA", region="Unknown", city="Unknown"} 18
+cases_count{country="BA", region="Unknown", city="Unknown"} 17
 recovered_count{country="BA", region="Unknown", city="Unknown"} 0
 deaths_count{country="BA", region="Unknown", city="Unknown"} 0
 # RS Unknown
@@ -227,7 +227,7 @@ cases_count{country="BA", region="FBiH", city="Bosanska Krupa"} 2
 recovered_count{country="BA", region="FBiH", city="Bosanska Krupa"} 0
 deaths_count{country="BA", region="FBiH", city="Bosanska Krupa"} 0
 # FBiH Ilijas
-cases_count{country="BA", region="FBiH", city="Ilijas"} 1
+cases_count{country="BA", region="FBiH", city="Ilijas"} 2
 recovered_count{country="BA", region="FBiH", city="Ilijas"} 0
 deaths_count{country="BA", region="FBiH", city="Ilijas"} 0
 # RS Pale

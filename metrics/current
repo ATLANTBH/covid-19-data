@@ -15,7 +15,7 @@ cases_count{country="BA", region="RS", city="Banja Luka"} 266
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 84
+cases_count{country="BA", region="FBiH", city="Citluk"} 85
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Mostar

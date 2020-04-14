@@ -1,5 +1,5 @@
 # Unknown Unknown
-cases_count{country="BA", region="Unknown", city="Unknown"} 17
+cases_count{country="BA", region="Unknown", city="Unknown"} 12
 recovered_count{country="BA", region="Unknown", city="Unknown"} 0
 deaths_count{country="BA", region="Unknown", city="Unknown"} 0
 # RS Unknown

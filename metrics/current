@@ -1,3 +1,7 @@
+# Unknown
+cases_count{country="BA", region="Unknown", city="Unknown"} 18
+recovered_count{country="BA", region="Unknown", city="Unknown"} 0
+deaths_count{country="BA", region="Unknown", city="Unknown"} 0
 # RS Unknown
 cases_count{country="BA", region="RS", city="Unknown"} 0
 recovered_count{country="BA", region="RS", city="Unknown"} 170
@@ -47,7 +51,7 @@ cases_count{country="BA", region="FBiH", city="Bihac"} 26
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Cazin
-cases_count{country="BA", region="FBiH", city="Cazin"} 23
+cases_count{country="BA", region="FBiH", city="Cazin"} 26
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
 # FBiH Livno

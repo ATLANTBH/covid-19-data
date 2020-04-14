@@ -131,9 +131,9 @@ cases_count{country="BA", region="RS", city="Knezevo"} 7
 recovered_count{country="BA", region="RS", city="Knezevo"} 0
 deaths_count{country="BA", region="RS", city="Knezevo"} 0
 # FBIH Sapna
-cases_count{country="BA", region="RS", city="Sapna"} 7
-recovered_count{country="BA", region="RS", city="Sapna"} 0
-deaths_count{country="BA", region="RS", city="Sapna"} 0
+cases_count{country="BA", region="FBIH", city="Sapna"} 7
+recovered_count{country="BA", region="FBIH", city="Sapna"} 0
+deaths_count{country="BA", region="FBIH", city="Sapna"} 0
 # RS Trebinje
 cases_count{country="BA", region="RS", city="Trebinje"} 7
 recovered_count{country="BA", region="RS", city="Trebinje"} 0

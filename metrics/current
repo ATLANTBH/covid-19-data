@@ -63,7 +63,7 @@ cases_count{country="BA", region="Brcko District", city="Brcko"} 18
 recovered_count{country="BA", region="Brcko District", city="Brcko"} 0
 deaths_count{country="BA", region="Brcko District", city="Brcko"} 1
 # FBiH Zavidovici
-cases_count{country="BA", region="FBiH", city="Zavidovici"} 17
+cases_count{country="BA", region="FBiH", city="Zavidovici"} 15
 recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0
 deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0
 # FBiH Capljina
@@ -87,7 +87,7 @@ cases_count{country="BA", region="RS", city="Teslic"} 14
 recovered_count{country="BA", region="RS", city="Teslic"} 0
 deaths_count{country="BA", region="RS", city="Teslic"} 0
 # FBiH Gorazde
-cases_count{country="BA", region="FBiH", city="Gorazde"} 12
+cases_count{country="BA", region="FBiH", city="Gorazde"} 13
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # FBiH Maglaj
@@ -171,11 +171,11 @@ cases_count{country="BA", region="FBiH", city="Zepce"} 4
 recovered_count{country="BA", region="FBiH", city="Zepce"} 0
 deaths_count{country="BA", region="FBiH", city="Zepce"} 0
 # FBiH Travnik
-cases_count{country="BA", region="FBiH", city="Travnik"} 2
+cases_count{country="BA", region="FBiH", city="Travnik"} 4
 recovered_count{country="BA", region="FBiH", city="Travnik"} 0
 deaths_count{country="BA", region="FBiH", city="Travnik"} 0
 # FBiH Tesanj
-cases_count{country="BA", region="FBiH", city="Tesanj"} 4
+cases_count{country="BA", region="FBiH", city="Tesanj"} 3
 recovered_count{country="BA", region="FBiH", city="Tesanj"} 0
 deaths_count{country="BA", region="FBiH", city="Tesanj"} 0
 # FBiH Novi Travnik

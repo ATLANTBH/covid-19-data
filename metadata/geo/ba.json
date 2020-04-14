@@ -442,5 +442,23 @@
           "latitude": 43.945559,
           "longitude": 18.076152,
           "name": "Kiseljak"
+        },
+        {
+          "key": "Doboj Jug",
+          "latitude": 44.676191,
+          "longitude": 18.068909,
+          "name": "Doboj Jug"
+        },
+        {
+          "key": "Nevesinje",
+          "latitude": 43.256813,
+          "longitude": 18.113022,
+          "name": "Nevesinje"
+        },
+        {
+          "key": "Kalesija",
+          "latitude": 44.443217,
+          "longitude": 18.875585,
+          "name": "Kalesija"
         }
 ]

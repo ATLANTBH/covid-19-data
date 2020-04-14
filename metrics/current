@@ -187,9 +187,9 @@ cases_count{country="BA", region="FBiH", city="Posusje"} 4
 recovered_count{country="BA", region="FBiH", city="Posusje"} 0
 deaths_count{country="BA", region="FBiH", city="Posusje"} 0
 # FBIH Bugojno
-cases_count{country="BA", region="RS", city="Bugojno"} 3
-recovered_count{country="BA", region="RS", city="Bugojno"} 0
-deaths_count{country="BA", region="RS", city="Bugojno"} 0
+cases_count{country="BA", region="FBiH", city="Bugojno"} 3
+recovered_count{country="BA", region="FBiH", city="Bugojno"} 0
+deaths_count{country="BA", region="FBiH", city="Bugojno"} 0
 # FBiH Lukavac
 cases_count{country="BA", region="FBiH", city="Lukavac"} 3
 recovered_count{country="BA", region="FBiH", city="Lukavac"} 0

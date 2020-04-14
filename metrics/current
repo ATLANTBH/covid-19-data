@@ -55,7 +55,7 @@ cases_count{country="BA", region="FBiH", city="Cazin"} 26
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
 # FBiH Livno
-cases_count{country="BA", region="FBiH", city="Livno"} 22
+cases_count{country="BA", region="FBiH", city="Livno"} 25
 recovered_count{country="BA", region="FBiH", city="Livno"} 0
 deaths_count{country="BA", region="FBiH", city="Livno"} 0
 # FBiH Zavidovici

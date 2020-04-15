@@ -472,5 +472,11 @@
           "latitude": 44.5499978,
           "longitude": 16.3666652,
           "name": "Bosanski Petrovac"
+        },
+         {
+        "key": "Stolac",
+          "latitude": 43.084,
+          "longitude": 17.95995,
+          "name": "Stolac"
         }
 ]

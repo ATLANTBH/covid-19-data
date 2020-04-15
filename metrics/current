@@ -15,7 +15,7 @@ cases_count{country="BA", region="RS", city="Banja Luka"} 266
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 85
+cases_count{country="BA", region="FBiH", city="Citluk"} 86
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Mostar
@@ -67,7 +67,7 @@ cases_count{country="BA", region="FBiH", city="Zavidovici"} 15
 recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0
 deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0
 # FBiH Capljina
-cases_count{country="BA", region="FBiH", city="Capljina"} 17
+cases_count{country="BA", region="FBiH", city="Capljina"} 19
 recovered_count{country="BA", region="FBiH", city="Capljina"} 0
 deaths_count{country="BA", region="FBiH", city="Capljina"} 0
 # FBiH Srebrenik
@@ -91,7 +91,7 @@ cases_count{country="BA", region="FBiH", city="Gorazde"} 14
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # FBiH Maglaj
-cases_count{country="BA", region="FBiH", city="Maglaj"} 12
+cases_count{country="BA", region="FBiH", city="Maglaj"} 13
 recovered_count{country="BA", region="FBiH", city="Maglaj"} 0
 deaths_count{country="BA", region="FBiH", city="Maglaj"} 0
 # FBiH Jablanica

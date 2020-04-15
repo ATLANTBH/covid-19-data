@@ -31,7 +31,7 @@ cases_count{country="BA", region="FBiH", city="Tuzla"} 48
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Sarajevo
-cases_count{country="BA", region="FBiH", city="Sarajevo"} 37
+cases_count{country="BA", region="FBiH", city="Sarajevo"} 43
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # RS Laktasi
@@ -51,7 +51,7 @@ cases_count{country="BA", region="FBiH", city="Bihac"} 26
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Cazin
-cases_count{country="BA", region="FBiH", city="Cazin"} 26
+cases_count{country="BA", region="FBiH", city="Cazin"} 28
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
 # FBiH Livno
@@ -87,7 +87,7 @@ cases_count{country="BA", region="RS", city="Teslic"} 14
 recovered_count{country="BA", region="RS", city="Teslic"} 0
 deaths_count{country="BA", region="RS", city="Teslic"} 0
 # FBiH Gorazde
-cases_count{country="BA", region="FBiH", city="Gorazde"} 13
+cases_count{country="BA", region="FBiH", city="Gorazde"} 14
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # FBiH Maglaj
@@ -267,7 +267,7 @@ cases_count{country="BA", region="RS", city="Zvornik"} 1
 recovered_count{country="BA", region="RS", city="Zvornik"} 0
 deaths_count{country="BA", region="RS", city="Zvornik"} 0
 # FBiH Kiseljak
-cases_count{country="BA", region="FBiH", city="Kiseljak"} 1
+cases_count{country="BA", region="FBiH", city="Kiseljak"} 2
 recovered_count{country="BA", region="FBiH", city="Kiseljak"} 0
 deaths_count{country="BA", region="FBiH", city="Kiseljak"} 0
 # RS Sekovici
@@ -310,3 +310,7 @@ deaths_count{country="BA", region="RS", city="Derventa"} 0
 cases_count{country="BA", region="RS", city="Kalinovik"} 1
 recovered_count{country="BA", region="RS", city="Kalinovik"} 0
 deaths_count{country="BA", region="RS", city="Kalinovik"} 0
+# FBiH Bosanski Petrovac
+cases_count{country="BA", region="FBiH", city="Bosanski Petrovac"} 1
+recovered_count{country="BA", region="FBiH", city="Bosanski Petrovac"} 0
+deaths_count{country="BA", region="FBiH", city="Bosanski Petrovac"} 0

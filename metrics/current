@@ -55,7 +55,7 @@ cases_count{country="BA", region="FBiH", city="Cazin"} 28
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
 # FBiH Livno
-cases_count{country="BA", region="FBiH", city="Livno"} 25
+cases_count{country="BA", region="FBiH", city="Livno"} 29
 recovered_count{country="BA", region="FBiH", city="Livno"} 0
 deaths_count{country="BA", region="FBiH", city="Livno"} 0
 # Brcko District Brcko
@@ -314,3 +314,7 @@ deaths_count{country="BA", region="RS", city="Kalinovik"} 0
 cases_count{country="BA", region="FBiH", city="Bosanski Petrovac"} 1
 recovered_count{country="BA", region="FBiH", city="Bosanski Petrovac"} 0
 deaths_count{country="BA", region="FBiH", city="Bosanski Petrovac"} 0
+# FBiH Stolac
+cases_count{country="BA", region="FBiH", city="Stolac"} 1
+recovered_count{country="BA", region="FBiH", city="Stolac"} 0
+deaths_count{country="BA", region="FBiH", city="Stolac"} 0

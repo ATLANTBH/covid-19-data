@@ -15,11 +15,11 @@ cases_count{country="BA", region="RS", city="Banja Luka"} 281
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 86
+cases_count{country="BA", region="FBiH", city="Citluk"} 87
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Mostar
-cases_count{country="BA", region="FBiH", city="Mostar"} 56
+cases_count{country="BA", region="FBiH", city="Mostar"} 57
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Siroki Brijeg
@@ -67,7 +67,7 @@ cases_count{country="BA", region="FBiH", city="Zavidovici"} 15
 recovered_count{country="BA", region="FBiH", city="Zavidovici"} 0
 deaths_count{country="BA", region="FBiH", city="Zavidovici"} 0
 # FBiH Capljina
-cases_count{country="BA", region="FBiH", city="Capljina"} 19
+cases_count{country="BA", region="FBiH", city="Capljina"} 20
 recovered_count{country="BA", region="FBiH", city="Capljina"} 0
 deaths_count{country="BA", region="FBiH", city="Capljina"} 0
 # FBiH Srebrenik

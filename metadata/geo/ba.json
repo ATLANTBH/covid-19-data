@@ -478,5 +478,11 @@
           "latitude": 43.084,
           "longitude": 17.95995,
           "name": "Stolac"
+        },
+        {
+        "key": "Istocno Sarajevo",  
+          "latitude": 43.819,
+          "longitude": 18.3554,
+          "name": "Istocno Sarajevo"
         }
 ]

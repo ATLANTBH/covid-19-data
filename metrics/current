@@ -9,7 +9,7 @@ deaths_count{country="BA", region="RS", city="Unknown"} 16
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 60
-deaths_count{country="BA", region="FBiH", city="Unknown"} 26
+deaths_count{country="BA", region="FBiH", city="Unknown"} 27
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 281
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
@@ -31,7 +31,7 @@ cases_count{country="BA", region="FBiH", city="Tuzla"} 48
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Sarajevo
-cases_count{country="BA", region="FBiH", city="Sarajevo"} 50
+cases_count{country="BA", region="FBiH", city="Sarajevo"} 51
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # RS Laktasi
@@ -87,11 +87,11 @@ cases_count{country="BA", region="RS", city="Teslic"} 15
 recovered_count{country="BA", region="RS", city="Teslic"} 0
 deaths_count{country="BA", region="RS", city="Teslic"} 0
 # FBiH Gorazde
-cases_count{country="BA", region="FBiH", city="Gorazde"} 14
+cases_count{country="BA", region="FBiH", city="Gorazde"} 15
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # FBiH Maglaj
-cases_count{country="BA", region="FBiH", city="Maglaj"} 13
+cases_count{country="BA", region="FBiH", city="Maglaj"} 20
 recovered_count{country="BA", region="FBiH", city="Maglaj"} 0
 deaths_count{country="BA", region="FBiH", city="Maglaj"} 0
 # FBiH Jablanica

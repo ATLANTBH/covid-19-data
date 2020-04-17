@@ -484,5 +484,11 @@
           "latitude": 43.819,
           "longitude": 18.3554,
           "name": "Istocno Sarajevo"
+        },
+        {
+        "key": "Vares",  
+          "latitude": 44.16444,
+          "longitude": 18.32833,
+          "name": "Vares"
         }
 ]

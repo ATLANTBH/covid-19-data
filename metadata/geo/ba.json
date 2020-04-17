@@ -490,5 +490,11 @@
           "latitude": 44.16444,
           "longitude": 18.32833,
           "name": "Vares"
+        },
+        {
+        "key": "Osmaci",  
+          "latitude": 44.401249,
+          "longitude": 18.915882,
+          "name": "Osmaci"
         }
 ]

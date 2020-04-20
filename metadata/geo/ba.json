@@ -507,12 +507,24 @@
         "key": "Bileca",  
           "latitude": 42.87645,
           "longitude": 18.42967,
-          "name": "Bileca"
+          "name": "Bileća"
         },
          {
         "key": "Ostra Luka",  
           "latitude": 44.8578,
           "longitude": 16.6606,
-          "name": "Ostra Luka"
+          "name": "Oštra Luka"
+        },
+        {
+        "key": "Ljubuski",  
+          "latitude": 43.19694,
+          "longitude": 17.545,
+          "name": "Ljubuški"
+        },
+          {
+        "key": "Sokolac",  
+          "latitude": 43.93817,
+          "longitude": 18.80079,
+          "name": "Sokolac"
         }
 ]

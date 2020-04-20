@@ -496,5 +496,23 @@
           "latitude": 44.401249,
           "longitude": 18.915882,
           "name": "Osmaci"
+        },
+         {
+        "key": "Gacko",  
+          "latitude": 43.16722,
+          "longitude": 18.53528,
+          "name": "Gacko"
+        },
+         {
+        "key": "Bileca",  
+          "latitude": 42.87645,
+          "longitude": 18.42967,
+          "name": "Bileca"
+        },
+         {
+        "key": "Ostra Luka",  
+          "latitude": 44.8578,
+          "longitude": 16.6606,
+          "name": "Ostra Luka"
         }
 ]

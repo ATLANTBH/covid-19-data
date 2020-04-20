@@ -31,7 +31,7 @@ cases_count{country="BA", region="FBiH", city="Tuzla"} 48
 recovered_count{country="BA", region="FBiH", city="Tuzla"} 0
 deaths_count{country="BA", region="FBiH", city="Tuzla"} 0
 # FBiH Sarajevo
-cases_count{country="BA", region="FBiH", city="Sarajevo"} 55
+cases_count{country="BA", region="FBiH", city="Sarajevo"} 56
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # RS Laktasi

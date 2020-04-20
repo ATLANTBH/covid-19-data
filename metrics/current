@@ -9,7 +9,7 @@ deaths_count{country="BA", region="RS", city="Unknown"} 17
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 84
-deaths_count{country="BA", region="FBiH", city="Unknown"} 28
+deaths_count{country="BA", region="FBiH", city="Unknown"} 29
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 285
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
@@ -119,7 +119,7 @@ cases_count{country="BA", region="RS", city="Sipovo"} 11
 recovered_count{country="BA", region="RS", city="Sipovo"} 0
 deaths_count{country="BA", region="RS", city="Sipovo"} 0
 # RS Trebinje
-cases_count{country="BA", region="RS", city="Trebinje"} 10
+cases_count{country="BA", region="RS", city="Trebinje"} 15
 recovered_count{country="BA", region="RS", city="Trebinje"} 0
 deaths_count{country="BA", region="RS", city="Trebinje"} 0
 # RS Prnjavor
@@ -147,7 +147,7 @@ cases_count{country="BA", region="FBiH", city="Vitez"} 6
 recovered_count{country="BA", region="FBiH", city="Vitez"} 0
 deaths_count{country="BA", region="FBiH", city="Vitez"} 0
 # RS Celinac
-cases_count{country="BA", region="RS", city="Celinac"} 10
+cases_count{country="BA", region="RS", city="Celinac"} 11
 recovered_count{country="BA", region="RS", city="Celinac"} 0
 deaths_count{country="BA", region="RS", city="Celinac"} 0
 # RS Prijedor
@@ -327,6 +327,18 @@ cases_count{country="BA", region="FBiH", city="Vares"} 1
 recovered_count{country="BA", region="FBiH", city="Vares"} 0
 deaths_count{country="BA", region="FBiH", city="Vares"} 0
 # RS Osmaci
-cases_count{country="BA", region="FBiH", city="Osmaci"} 2
-recovered_count{country="BA", region="FBiH", city="Osmaci"} 0
-deaths_count{country="BA", region="FBiH", city="Osmaci"} 0
+cases_count{country="BA", region="RS", city="Osmaci"} 2
+recovered_count{country="BA", region="RS", city="Osmaci"} 0
+deaths_count{country="BA", region="RS", city="Osmaci"} 0
+# RS Gacko
+cases_count{country="BA", region="RS", city="Gacko"} 3
+recovered_count{country="BA", region="RS", city="Gacko"} 0
+deaths_count{country="BA", region="RS", city="Gacko"} 0
+# RS Bileca
+cases_count{country="BA", region="RS", city="Bileca"} 1
+recovered_count{country="BA", region="RS", city="Bileca"} 0
+deaths_count{country="BA", region="RS", city="Bileca"} 0
+# RS Ostra Luka
+cases_count{country="BA", region="RS", city="Ostra Luka"} 1
+recovered_count{country="BA", region="RS", city="Ostra Luka"} 0
+deaths_count{country="BA", region="RS", city="Ostra Luka"} 0

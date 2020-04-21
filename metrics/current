@@ -27,7 +27,7 @@ cases_count{country="BA", region="FBiH", city="Sarajevo"} 61
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # FBiH Siroki Brijeg
-cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 52
+cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 56
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 # FBiH Tuzla

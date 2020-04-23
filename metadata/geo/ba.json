@@ -526,5 +526,10 @@
           "latitude": 43.93817,
           "longitude": 18.80079,
           "name": "Sokolac"
+        },
+        "key": "Ugljevik",  
+          "latitude": 44.68999724,
+          "longitude": 18.991996032,
+          "name": "Ugljevik"
         }
 ]

@@ -532,5 +532,11 @@
           "latitude": 44.66361,
           "longitude": 19.02028,
           "name": "Ugljevik"
+        },
+        {
+        "key": "Drinic",  
+          "latitude": 44.5,
+          "longitude": 16.466667,
+          "name": "Drinic"
         }
 ]

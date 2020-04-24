@@ -11,7 +11,7 @@ cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 235
 deaths_count{country="BA", region="FBiH", city="Unknown"} 32
 # RS Banja Luka
-cases_count{country="BA", region="RS", city="Banja Luka"} 318
+cases_count{country="BA", region="RS", city="Banja Luka"} 321
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Citluk
@@ -23,11 +23,11 @@ cases_count{country="BA", region="FBiH", city="Mostar"} 71
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Sarajevo
-cases_count{country="BA", region="FBiH", city="Sarajevo"} 67
+cases_count{country="BA", region="FBiH", city="Sarajevo"} 68
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
 deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # FBiH Siroki Brijeg
-cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 57
+cases_count{country="BA", region="FBiH", city="Siroki Brijeg"} 58
 recovered_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 deaths_count{country="BA", region="FBiH", city="Siroki Brijeg"} 0
 # FBiH Tuzla
@@ -47,11 +47,11 @@ cases_count{country="BA", region="FBiH", city="Livno"} 35
 recovered_count{country="BA", region="FBiH", city="Livno"} 0
 deaths_count{country="BA", region="FBiH", city="Livno"} 0
 # FBiH Cazin
-cases_count{country="BA", region="FBiH", city="Cazin"} 35
+cases_count{country="BA", region="FBiH", city="Cazin"} 39
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
 # FBiH Zenica
-cases_count{country="BA", region="FBiH", city="Zenica"} 31
+cases_count{country="BA", region="FBiH", city="Zenica"} 28
 recovered_count{country="BA", region="FBiH", city="Zenica"} 0
 deaths_count{country="BA", region="FBiH", city="Zenica"} 0
 # FBiH Konjic
@@ -59,15 +59,15 @@ cases_count{country="BA", region="FBiH", city="Konjic"} 29
 recovered_count{country="BA", region="FBiH", city="Konjic"} 0
 deaths_count{country="BA", region="FBiH", city="Konjic"} 0
 # FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 30
+cases_count{country="BA", region="FBiH", city="Bihac"} 31
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # RS Kotor Varos
-cases_count{country="BA", region="RS", city="Kotor Varos"} 23
+cases_count{country="BA", region="RS", city="Kotor Varos"} 24
 recovered_count{country="BA", region="RS", city="Kotor Varos"} 0
 deaths_count{country="BA", region="RS", city="Kotor Varos"} 0
 # FBiH Gorazde
-cases_count{country="BA", region="FBiH", city="Gorazde"} 21
+cases_count{country="BA", region="FBiH", city="Gorazde"} 19
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # FBiH Capljina
@@ -83,7 +83,7 @@ cases_count{country="BA", region="FBiH", city="Srebrenik"} 16
 recovered_count{country="BA", region="FBiH", city="Srebrenik"} 0
 deaths_count{country="BA", region="FBiH", city="Srebrenik"} 0
 # RS Teslic
-cases_count{country="BA", region="RS", city="Teslic"} 17
+cases_count{country="BA", region="RS", city="Teslic"} 18
 recovered_count{country="BA", region="RS", city="Teslic"} 0
 deaths_count{country="BA", region="RS", city="Teslic"} 0
 # RS Trebinje
@@ -139,7 +139,7 @@ cases_count{country="BA", region="RS", city="Sipovo"} 11
 recovered_count{country="BA", region="RS", city="Sipovo"} 0
 deaths_count{country="BA", region="RS", city="Sipovo"} 0
 # RS Kozarska Dubica
-cases_count{country="BA", region="RS", city="Kozarska Dubica"} 11
+cases_count{country="BA", region="RS", city="Kozarska Dubica"} 10
 recovered_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 deaths_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 # FBiH Gornji Vakuf - Uskoplje
@@ -155,7 +155,7 @@ cases_count{country="BA", region="FBiH", city="Sapna"} 7
 recovered_count{country="BA", region="FBiH", city="Sapna"} 0
 deaths_count{country="BA", region="FBiH", city="Sapna"} 0
 # RS Prijedor
-cases_count{country="BA", region="RS", city="Prijedor"} 10
+cases_count{country="BA", region="RS", city="Prijedor"} 9
 recovered_count{country="BA", region="RS", city="Prijedor"} 0
 deaths_count{country="BA", region="RS", city="Prijedor"} 0
 # RS Istocna Ilidza
@@ -271,7 +271,7 @@ cases_count{country="BA", region="RS", city="Doboj"} 2
 recovered_count{country="BA", region="RS", city="Doboj"} 0
 deaths_count{country="BA", region="RS", city="Doboj"} 0
 # RS Zvornik
-cases_count{country="BA", region="RS", city="Zvornik"} 2
+cases_count{country="BA", region="RS", city="Zvornik"} 1
 recovered_count{country="BA", region="RS", city="Zvornik"} 0
 deaths_count{country="BA", region="RS", city="Zvornik"} 0
 # RS Derventa
@@ -351,6 +351,10 @@ cases_count{country="BA", region="RS", city="Sokolac"} 1
 recovered_count{country="BA", region="RS", city="Sokolac"} 0
 deaths_count{country="BA", region="RS", city="Sokolac"} 0
 # RS Ugljevik
-cases_count{country="BA", region="RS", city="Ugljevik"} 1
+cases_count{country="BA", region="RS", city="Ugljevik"} 2
 recovered_count{country="BA", region="RS", city="Ugljevik"} 0
 deaths_count{country="BA", region="RS", city="Ugljevik"} 0
+# RS Drinic
+cases_count{country="BA", region="RS", city="Drinic"} 1
+recovered_count{country="BA", region="RS", city="Drinic"} 0
+deaths_count{country="BA", region="RS", city="Drinic"} 0

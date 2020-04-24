@@ -8,18 +8,18 @@ recovered_count{country="BA", region="RS", city="Unknown"} 306
 deaths_count{country="BA", region="RS", city="Unknown"} 21
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
-recovered_count{country="BA", region="FBiH", city="Unknown"} 198
+recovered_count{country="BA", region="FBiH", city="Unknown"} 235
 deaths_count{country="BA", region="FBiH", city="Unknown"} 32
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 318
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Citluk
-cases_count{country="BA", region="FBiH", city="Citluk"} 92
+cases_count{country="BA", region="FBiH", city="Citluk"} 96
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
 deaths_count{country="BA", region="FBiH", city="Citluk"} 0
 # FBiH Mostar
-cases_count{country="BA", region="FBiH", city="Mostar"} 68
+cases_count{country="BA", region="FBiH", city="Mostar"} 71
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Sarajevo
@@ -71,12 +71,12 @@ cases_count{country="BA", region="FBiH", city="Gorazde"} 21
 recovered_count{country="BA", region="FBiH", city="Gorazde"} 0
 deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # FBiH Capljina
-cases_count{country="BA", region="FBiH", city="Capljina"} 20
+cases_count{country="BA", region="FBiH", city="Capljina"} 21
 recovered_count{country="BA", region="FBiH", city="Capljina"} 0
 deaths_count{country="BA", region="FBiH", city="Capljina"} 0
 # Brcko District Brcko
 cases_count{country="BA", region="Brcko District", city="Brcko"} 18
-recovered_count{country="BA", region="Brcko District", city="Brcko"} 6
+recovered_count{country="BA", region="Brcko District", city="Brcko"} 11
 deaths_count{country="BA", region="Brcko District", city="Brcko"} 2
 # FBiH Srebrenik
 cases_count{country="BA", region="FBiH", city="Srebrenik"} 16

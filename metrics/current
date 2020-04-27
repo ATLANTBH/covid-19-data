@@ -5,13 +5,13 @@ deaths_count{country="BA", region="Unknown", city="Unknown"} 0
 # RS Unknown
 cases_count{country="BA", region="RS", city="Unknown"} 5
 recovered_count{country="BA", region="RS", city="Unknown"} 357
-deaths_count{country="BA", region="RS", city="Unknown"} 25
+deaths_count{country="BA", region="RS", city="Unknown"} 26
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
 recovered_count{country="BA", region="FBiH", city="Unknown"} 256
 deaths_count{country="BA", region="FBiH", city="Unknown"} 32
 # RS Banja Luka
-cases_count{country="BA", region="RS", city="Banja Luka"} 350
+cases_count{country="BA", region="RS", city="Banja Luka"} 372
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Citluk
@@ -39,7 +39,7 @@ cases_count{country="BA", region="FBiH", city="Maglaj"} 59
 recovered_count{country="BA", region="FBiH", city="Maglaj"} 0
 deaths_count{country="BA", region="FBiH", city="Maglaj"} 0
 # RS Laktasi
-cases_count{country="BA", region="RS", city="Laktasi"} 45
+cases_count{country="BA", region="RS", city="Laktasi"} 47
 recovered_count{country="BA", region="RS", city="Laktasi"} 0
 deaths_count{country="BA", region="RS", city="Laktasi"} 0
 # FBiH Cazin
@@ -63,7 +63,7 @@ cases_count{country="BA", region="FBiH", city="Zenica"} 29
 recovered_count{country="BA", region="FBiH", city="Zenica"} 0
 deaths_count{country="BA", region="FBiH", city="Zenica"} 0
 # RS Kotor Varos
-cases_count{country="BA", region="RS", city="Kotor Varos"} 26
+cases_count{country="BA", region="RS", city="Kotor Varos"} 27
 recovered_count{country="BA", region="RS", city="Kotor Varos"} 0
 deaths_count{country="BA", region="RS", city="Kotor Varos"} 0
 # FBiH Capljina
@@ -91,7 +91,7 @@ cases_count{country="BA", region="RS", city="Teslic"} 18
 recovered_count{country="BA", region="RS", city="Teslic"} 0
 deaths_count{country="BA", region="RS", city="Teslic"} 0
 # RS Gradiska
-cases_count{country="BA", region="RS", city="Gradiska"} 17
+cases_count{country="BA", region="RS", city="Gradiska"} 21
 recovered_count{country="BA", region="RS", city="Gradiska"} 0
 deaths_count{country="BA", region="RS", city="Gradiska"} 0
 # FBiH Srebrenik
@@ -99,7 +99,7 @@ cases_count{country="BA", region="FBiH", city="Srebrenik"} 16
 recovered_count{country="BA", region="FBiH", city="Srebrenik"} 0
 deaths_count{country="BA", region="FBiH", city="Srebrenik"} 0
 # RS Knezevo
-cases_count{country="BA", region="RS", city="Knezevo"} 16
+cases_count{country="BA", region="RS", city="Knezevo"} 17
 recovered_count{country="BA", region="RS", city="Knezevo"} 0
 deaths_count{country="BA", region="RS", city="Knezevo"} 0
 # FBiH Zavidovici
@@ -143,7 +143,7 @@ cases_count{country="BA", region="RS", city="Sipovo"} 11
 recovered_count{country="BA", region="RS", city="Sipovo"} 0
 deaths_count{country="BA", region="RS", city="Sipovo"} 0
 # RS Kozarska Dubica
-cases_count{country="BA", region="RS", city="Kozarska Dubica"} 12
+cases_count{country="BA", region="RS", city="Kozarska Dubica"} 14
 recovered_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 deaths_count{country="BA", region="RS", city="Kozarska Dubica"} 0
 # FBiH Travnik
@@ -235,7 +235,7 @@ cases_count{country="BA", region="RS", city="Srbac"} 3
 recovered_count{country="BA", region="RS", city="Srbac"} 0
 deaths_count{country="BA", region="RS", city="Srbac"} 0
 # RS Doboj
-cases_count{country="BA", region="RS", city="Doboj"} 3
+cases_count{country="BA", region="RS", city="Doboj"} 5
 recovered_count{country="BA", region="RS", city="Doboj"} 0
 deaths_count{country="BA", region="RS", city="Doboj"} 0
 # FBiH Zivinice
@@ -271,7 +271,7 @@ cases_count{country="BA", region="RS", city="Osmaci"} 2
 recovered_count{country="BA", region="RS", city="Osmaci"} 0
 deaths_count{country="BA", region="RS", city="Osmaci"} 0
 # RS Derventa
-cases_count{country="BA", region="RS", city="Derventa"} 2
+cases_count{country="BA", region="RS", city="Derventa"} 3
 recovered_count{country="BA", region="RS", city="Derventa"} 0
 deaths_count{country="BA", region="RS", city="Derventa"} 0
 # RS Kalinovik

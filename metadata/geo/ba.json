@@ -538,5 +538,11 @@
           "latitude": 44.5,
           "longitude": 16.466667,
           "name": "Drinic"
+        },
+        {
+        "key": "Sanski Most",  
+          "latitude": 44.766667,
+          "longitude": 16.666667,
+          "name": "Sanski Most"
         }
 ]

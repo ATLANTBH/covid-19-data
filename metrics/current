@@ -8,7 +8,7 @@ recovered_count{country="BA", region="RS", city="Unknown"} 381
 deaths_count{country="BA", region="RS", city="Unknown"} 34
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
-recovered_count{country="BA", region="FBiH", city="Unknown"} 322
+recovered_count{country="BA", region="FBiH", city="Unknown"} 338
 deaths_count{country="BA", region="FBiH", city="Unknown"} 33
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 422
@@ -23,7 +23,7 @@ cases_count{country="BA", region="FBiH", city="Maglaj"} 96
 recovered_count{country="BA", region="FBiH", city="Maglaj"} 0
 deaths_count{country="BA", region="FBiH", city="Maglaj"} 0
 # FBiH Mostar
-cases_count{country="BA", region="FBiH", city="Mostar"} 79
+cases_count{country="BA", region="FBiH", city="Mostar"} 91
 recovered_count{country="BA", region="FBiH", city="Mostar"} 0
 deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 # FBiH Sarajevo
@@ -354,6 +354,10 @@ deaths_count{country="BA", region="RS", city="Bileca"} 0
 cases_count{country="BA", region="FBiH", city="Ljubuski"} 1
 recovered_count{country="BA", region="FBiH", city="Ljubuski"} 0
 deaths_count{country="BA", region="FBiH", city="Ljubuski"} 0
+# FBiH Donji Vakuf
+cases_count{country="BA", region="FBiH", city="Donji Vakuf"} 1
+recovered_count{country="BA", region="FBiH", city="Donji Vakuf"} 0
+deaths_count{country="BA", region="FBiH", city="Donji Vakuf"} 0
 # RS Sokolac
 cases_count{country="BA", region="RS", city="Sokolac"} 1
 recovered_count{country="BA", region="RS", city="Sokolac"} 0

@@ -552,6 +552,12 @@
           "name": "Foča"
         },
         {
+        "key": "Ljubinje",  
+          "latitude": 42.9555,
+          "longitude": 18.0776,
+          "name": "Ljubinje"
+        },
+        {
         "key": "Bosanski Samac",  
           "latitude": 45.0611,
           "longitude": 18.4690,

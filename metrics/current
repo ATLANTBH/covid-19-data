@@ -8,14 +8,14 @@ recovered_count{country="BA", region="RS", city="Unknown"} 381
 deaths_count{country="BA", region="RS", city="Unknown"} 41
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
-recovered_count{country="BA", region="FBiH", city="Unknown"} 392
+recovered_count{country="BA", region="FBiH", city="Unknown"} 433
 deaths_count{country="BA", region="FBiH", city="Unknown"} 33
 # RS Banja Luka
 cases_count{country="BA", region="RS", city="Banja Luka"} 451
 recovered_count{country="BA", region="RS", city="Banja Luka"} 0
 deaths_count{country="BA", region="RS", city="Banja Luka"} 0
 # FBiH Maglaj
-cases_count{country="BA", region="FBiH", city="Maglaj"} 104
+cases_count{country="BA", region="FBiH", city="Maglaj"} 111
 recovered_count{country="BA", region="FBiH", city="Maglaj"} 0
 deaths_count{country="BA", region="FBiH", city="Maglaj"} 0
 # FBiH Citluk
@@ -47,7 +47,7 @@ cases_count{country="BA", region="FBiH", city="Cazin"} 41
 recovered_count{country="BA", region="FBiH", city="Cazin"} 0
 deaths_count{country="BA", region="FBiH", city="Cazin"} 0
 # FBiH Bihac
-cases_count{country="BA", region="FBiH", city="Bihac"} 36
+cases_count{country="BA", region="FBiH", city="Bihac"} 37
 recovered_count{country="BA", region="FBiH", city="Bihac"} 0
 deaths_count{country="BA", region="FBiH", city="Bihac"} 0
 # FBiH Livno
@@ -101,7 +101,7 @@ deaths_count{country="BA", region="FBiH", city="Gorazde"} 0
 # Brcko District Brcko
 cases_count{country="BA", region="Brcko District", city="Brcko"} 20
 recovered_count{country="BA", region="Brcko District", city="Brcko"} 11
-deaths_count{country="BA", region="Brcko District", city="Brcko"} 2
+deaths_count{country="BA", region="Brcko District", city="Brcko"} 3
 # RS Kozarska Dubica
 cases_count{country="BA", region="RS", city="Kozarska Dubica"} 20
 recovered_count{country="BA", region="RS", city="Kozarska Dubica"} 0

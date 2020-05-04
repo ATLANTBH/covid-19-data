@@ -468,109 +468,121 @@
           "name": "Petrovac"
         },
         {
-        "key": "Bosanski Petrovac",
+          "key": "Bosanski Petrovac",
           "latitude": 44.5499978,
           "longitude": 16.3666652,
           "name": "Bosanski Petrovac"
         },
          {
-        "key": "Stolac",
+          "key": "Stolac",
           "latitude": 43.084,
           "longitude": 17.95995,
           "name": "Stolac"
         },
         {
-        "key": "Istocno Sarajevo",  
+          "key": "Istocno Sarajevo",  
           "latitude": 43.819,
           "longitude": 18.3554,
           "name": "Istocno Sarajevo"
         },
         {
-        "key": "Vares",  
+          "key": "Vares",  
           "latitude": 44.16444,
           "longitude": 18.32833,
           "name": "Vares"
         },
         {
-        "key": "Osmaci",  
+          "key": "Osmaci",  
           "latitude": 44.401249,
           "longitude": 18.915882,
           "name": "Osmaci"
         },
-         {
-        "key": "Gacko",  
+        {
+          "key": "Gacko",  
           "latitude": 43.16722,
           "longitude": 18.53528,
           "name": "Gacko"
         },
-         {
-        "key": "Bileca",  
+        {
+          "key": "Bileca",  
           "latitude": 42.87645,
           "longitude": 18.42967,
           "name": "Bileća"
         },
-         {
-        "key": "Ostra Luka",  
+        {
+          "key": "Ostra Luka",  
           "latitude": 44.8578,
           "longitude": 16.6606,
           "name": "Oštra Luka"
         },
         {
-        "key": "Ljubuski",  
+          "key": "Ljubuski",  
           "latitude": 43.19694,
           "longitude": 17.545,
           "name": "Ljubuški"
         },
-          {
-        "key": "Sokolac",  
+        {
+          "key": "Sokolac",  
           "latitude": 43.93817,
           "longitude": 18.80079,
           "name": "Sokolac"
         },
         {
-        "key": "Ugljevik",  
+          "key": "Ugljevik",  
           "latitude": 44.66361,
           "longitude": 19.02028,
           "name": "Ugljevik"
         },
         {
-        "key": "Donji Vakuf",  
+          "key": "Donji Vakuf",  
           "latitude": 44.14361,
           "longitude": 17.4,
           "name": "Donji Vakuf"
         },
         {
-        "key": "Drinic",  
+          "key": "Drinic",  
           "latitude": 44.5,
           "longitude": 16.466667,
           "name": "Drinic"
         },
         {
-        "key": "Foca",  
+          "key": "Foca",  
           "latitude": 43.50646,
           "longitude": 18.77854,
           "name": "Foča"
         },
         {
-        "key": "Ljubinje",  
+          "key": "Ljubinje",  
           "latitude": 42.9555,
           "longitude": 18.0776,
           "name": "Ljubinje"
         },
         {
-        "key": "Bosanski Samac",  
+          "key": "Vukosavlje",  
+          "latitude": 45.0287,
+          "longitude": 18.2509,
+          "name": "Vukosavlje"
+        },
+        {
+          "key": "Petrovo",  
+          "latitude": 44.6225,
+          "longitude": 18.3568,
+          "name": "Petrovo"
+        },
+        {
+          "key": "Bosanski Samac",  
           "latitude": 45.0611,
           "longitude": 18.4690,
           "name": "Bosanski Šamac"
         },
         {
-        "key": "Krupa na Uni",  
+          "key": "Krupa na Uni",  
           "latitude": 44.8890,
           "longitude": 16.3127,
           "name": "Krupa na Uni"
         },
         {
-        "key": "Sanski Most",  
+          "key": "Sanski Most",  
           "latitude": 44.766667,
           "longitude": 16.666667,
           "name": "Sanski Most"

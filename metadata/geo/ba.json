@@ -582,6 +582,12 @@
           "name": "Krupa na Uni"
         },
         {
+          "key": "Bosanska Kostajnica",  
+          "latitude": 45.2192,
+          "longitude": 16.5376,
+          "name": "Bosanska Kostajnica"
+        },
+        {
           "key": "Sanski Most",  
           "latitude": 44.766667,
           "longitude": 16.666667,

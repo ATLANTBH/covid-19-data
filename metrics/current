@@ -4,7 +4,7 @@ recovered_count{country="BA", region="Unknown", city="Unknown"} 0
 deaths_count{country="BA", region="Unknown", city="Unknown"} 0
 # RS Unknown
 cases_count{country="BA", region="RS", city="Unknown"} 5
-recovered_count{country="BA", region="RS", city="Unknown"} 638
+recovered_count{country="BA", region="RS", city="Unknown"} 643
 deaths_count{country="BA", region="RS", city="Unknown"} 91
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
@@ -51,7 +51,7 @@ cases_count{country="BA", region="RS", city="Doboj"} 48
 recovered_count{country="BA", region="RS", city="Doboj"} 0
 deaths_count{country="BA", region="RS", city="Doboj"} 0
 # RS Kotor Varos
-cases_count{country="BA", region="RS", city="Kotor Varos"} 46
+cases_count{country="BA", region="RS", city="Kotor Varos"} 47
 recovered_count{country="BA", region="RS", city="Kotor Varos"} 0
 deaths_count{country="BA", region="RS", city="Kotor Varos"} 0
 # FBiH Cazin
@@ -75,7 +75,7 @@ cases_count{country="BA", region="FBiH", city="Zenica"} 35
 recovered_count{country="BA", region="FBiH", city="Zenica"} 0
 deaths_count{country="BA", region="FBiH", city="Zenica"} 0
 # RS Prijedor
-cases_count{country="BA", region="RS", city="Prijedor"} 35
+cases_count{country="BA", region="RS", city="Prijedor"} 38
 recovered_count{country="BA", region="RS", city="Prijedor"} 0
 deaths_count{country="BA", region="RS", city="Prijedor"} 0
 # RS Gacko
@@ -231,7 +231,7 @@ cases_count{country="BA", region="FBiH", city="Bosanska Krupa"} 5
 recovered_count{country="BA", region="FBiH", city="Bosanska Krupa"} 0
 deaths_count{country="BA", region="FBiH", city="Bosanska Krupa"} 0
 # FBiH Zivinice
-cases_count{country="BA", region="FBiH", city="Zivinice"} 5
+cases_count{country="BA", region="FBiH", city="Zivinice"} 7
 recovered_count{country="BA", region="FBiH", city="Zivinice"} 0
 deaths_count{country="BA", region="FBiH", city="Zivinice"} 0
 # FBiH Sanski Most

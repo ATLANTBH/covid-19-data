@@ -570,6 +570,12 @@
           "name": "Petrovo"
         },
         {
+          "key": "Trnovo",  
+          "latitude": 43.7003,
+          "longitude": 18.3015,
+          "name": "Trnovo"
+        },
+        {
           "key": "Bosanski Samac",  
           "latitude": 45.0611,
           "longitude": 18.4690,

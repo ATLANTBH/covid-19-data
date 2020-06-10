@@ -576,6 +576,12 @@
           "name": "Trnovo"
         },
         {
+          "key": "Buzim",  
+          "latitude": 45.0511,
+          "longitude": 16.0518,
+          "name": "Bužim"
+        },
+        {
           "key": "Bosanski Samac",  
           "latitude": 45.0611,
           "longitude": 18.4690,

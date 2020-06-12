@@ -22,6 +22,10 @@ deaths_count{country="BA", region="FBiH", city="Maglaj"} 0
 cases_count{country="BA", region="FBiH", city="Tesanj"} 119
 recovered_count{country="BA", region="FBiH", city="Tesanj"} 0
 deaths_count{country="BA", region="FBiH", city="Tesanj"} 0
+# FBiH Sarajevo
+cases_count{country="BA", region="FBiH", city="Sarajevo"} 112
+recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
+deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # FBiH Citluk
 cases_count{country="BA", region="FBiH", city="Citluk"} 96
 recovered_count{country="BA", region="FBiH", city="Citluk"} 0
@@ -34,10 +38,6 @@ deaths_count{country="BA", region="FBiH", city="Mostar"} 0
 cases_count{country="BA", region="RS", city="Laktasi"} 83
 recovered_count{country="BA", region="RS", city="Laktasi"} 0
 deaths_count{country="BA", region="RS", city="Laktasi"} 0
-# FBiH Sarajevo
-cases_count{country="BA", region="FBiH", city="Sarajevo"} 101
-recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
-deaths_count{country="BA", region="FBiH", city="Sarajevo"} 0
 # RS Modrica
 cases_count{country="BA", region="RS", city="Modrica"} 75
 recovered_count{country="BA", region="RS", city="Modrica"} 0

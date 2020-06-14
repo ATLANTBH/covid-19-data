@@ -582,6 +582,12 @@
           "name": "Bužim"
         },
         {
+          "key": "Bratunac",  
+          "latitude": 44.1859,
+          "longitude": 19.3326,
+          "name": "Bratunac"
+        },
+        {
           "key": "Bosanski Samac",  
           "latitude": 45.0611,
           "longitude": 18.4690,

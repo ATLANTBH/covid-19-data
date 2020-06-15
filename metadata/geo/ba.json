@@ -588,6 +588,12 @@
           "name": "Bratunac"
         },
         {
+          "key": "Teocak",  
+          "latitude": 44.6066,
+          "longitude": 19.0322,
+          "name": "Teočak"
+        },
+        {
           "key": "Bosanski Samac",  
           "latitude": 45.0611,
           "longitude": 18.4690,

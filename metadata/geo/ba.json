@@ -594,6 +594,12 @@
           "name": "Teočak"
         },
         {
+          "key": "Celic",  
+          "latitude": 44.7075,
+          "longitude": 18.7342,
+          "name": "Čelić"
+        },
+        {
           "key": "Bosanski Samac",  
           "latitude": 45.0611,
           "longitude": 18.4690,

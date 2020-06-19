@@ -594,6 +594,12 @@
           "name": "Teočak"
         },
         {
+          "key": "Kladanj",  
+          "latitude": 44.2247,
+          "longitude": 18.6919,
+          "name": "Kladanj"
+        },
+        {
           "key": "Celic",  
           "latitude": 44.7075,
           "longitude": 18.7342,

@@ -576,6 +576,12 @@
           "name": "Trnovo"
         },
         {
+          "key": "Rogatica",  
+          "latitude": 43.7988,
+          "longitude": 19.0021,
+          "name": "Rogatica"
+        },
+        {
           "key": "Buzim",  
           "latitude": 45.0511,
           "longitude": 16.0518,

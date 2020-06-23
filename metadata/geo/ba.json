@@ -108,6 +108,12 @@
           "name": "Ribnik"
         },
         {
+          "key": "Olovo",
+          "latitude": 44.1265,
+          "longitude": 18.5827,
+          "name": "Olovo"
+        },
+        {
           "key": "Kozarska Dubica",
           "latitude": 45.183333,
           "longitude": 16.8,

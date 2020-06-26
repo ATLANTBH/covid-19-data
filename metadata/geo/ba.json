@@ -36,6 +36,36 @@
           "name": "Mostar"
         },
         {
+          "key": "Tomislavgrad",
+          "latitude": 43.7187,
+          "longitude": 17.2236,
+          "name": "Tomislavgrad"
+        },
+        {
+          "key": "Jajce",
+          "latitude": 44.3398,
+          "longitude": 17.2713,
+          "name": "Jajce"
+        },
+        {
+          "key": "Jezero",
+          "latitude": 44.3213,
+          "longitude": 17.1815,
+          "name": "Jezero"
+        },
+        {
+          "key": "Vlasenica",
+          "latitude": 44.1800,
+          "longitude": 18.9418,
+          "name": "Vlasenica"
+        },
+        {
+          "key": "Domaljevac-Samac",
+          "latitude": 45.0529,
+          "longitude": 18.5690,
+          "name": "Domaljevac-Šamac"
+        },
+        {
           "key": "Bihac",
           "latitude": 44.81694,
           "longitude": 15.87083,

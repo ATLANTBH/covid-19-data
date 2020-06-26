@@ -430,10 +430,10 @@ deaths_count{country="BA", region="FBiH", city="Kladanj"} 0
 cases_count{country="BA", region="FBiH", city="Jajce"} 1
 recovered_count{country="BA", region="FBiH", city="Jajce"} 0
 deaths_count{country="BA", region="FBiH", city="Jajce"} 0
-# FBiH Domaljevac-Šamac 
-cases_count{country="BA", region="FBiH", city="Domaljevac-Šamac"} 1
-recovered_count{country="BA", region="FBiH", city="Domaljevac-Šamac"} 0
-deaths_count{country="BA", region="FBiH", city="Domaljevac-Šamac"} 0
+# FBiH Domaljevac-Samac 
+cases_count{country="BA", region="FBiH", city="Domaljevac-Samac"} 1
+recovered_count{country="BA", region="FBiH", city="Domaljevac-Samac"} 0
+deaths_count{country="BA", region="FBiH", city="Domaljevac-Samac"} 0
 # FBiH Donji Vakuf
 cases_count{country="BA", region="FBiH", city="Donji Vakuf"} 1
 recovered_count{country="BA", region="FBiH", city="Donji Vakuf"} 0

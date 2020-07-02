@@ -624,6 +624,42 @@
           "name": "Rogatica"
         },
         {
+          "key": "Lopare",  
+          "latitude": 44.6323,
+          "longitude": 18.8432,
+          "name": "Lopare"
+        },
+        {
+          "key": "Usora",  
+          "latitude": 44.6899,
+          "longitude": 17.9749,
+          "name": "Usora"
+        },
+        {
+          "key": "Ustipraca",  
+          "latitude": 43.6899,
+          "longitude": 19.0972,
+          "name": "Ustiprača"
+        },
+        {
+          "key": "Visegrad",  
+          "latitude": 43.7834,
+          "longitude": 19.2935,
+          "name": "Višegrad"
+        },
+        {
+          "key": "Drvar",  
+          "latitude": 44.3711,
+          "longitude": 16.3813,
+          "name": "Drvar"
+        },
+        {
+          "key": "Doboj Istok",  
+          "latitude": 44.7311,
+          "longitude": 18.1912,
+          "name": "Doboj Istok"
+        },
+        {
           "key": "Buzim",  
           "latitude": 45.0511,
           "longitude": 16.0518,

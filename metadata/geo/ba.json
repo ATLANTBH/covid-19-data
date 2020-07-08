@@ -18,6 +18,12 @@
           "name": "Zenica"
         },
         {
+          "key": "Donji Zabar",
+          "latitude": 44.9380,
+          "longitude": 18.6500,
+          "name": "Donji Žabar"
+        },
+        {
           "key": "Tuzla",
           "latitude": 44.53842,
           "longitude": 18.66709,

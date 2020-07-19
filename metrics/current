@@ -486,10 +486,10 @@ deaths_count{country="BA", region="FBiH", city="Jajce"} 0
 cases_count{country="BA", region="RS", city="Jezero"} 1
 recovered_count{country="BA", region="RS", city="Jezero"} 0
 deaths_count{country="BA", region="RS", city="Jezero"} 0
-# RS Han-Pijesak
-cases_count{country="BA", region="RS", city="Han-Pijesak"} 1
-recovered_count{country="BA", region="RS", city="Han-Pijesak"} 0
-deaths_count{country="BA", region="RS", city="Han-Pijesak"} 0
+# RS Han Pijesak
+cases_count{country="BA", region="RS", city="Han Pijesak"} 1
+recovered_count{country="BA", region="RS", city="Han Pijesak"} 0
+deaths_count{country="BA", region="RS", city="Han Pijesak"} 0
 # RS Istocni Drvar
 cases_count{country="BA", region="RS", city="Istocni Drvar"} 1
 recovered_count{country="BA", region="RS", city="Istocni Drvar"} 0

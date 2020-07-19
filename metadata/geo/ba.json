@@ -714,6 +714,12 @@
           "name": "Bosanski Šamac"
         },
         {
+          "key": "Han-Pijesak",  
+          "latitude": 44.0672,
+          "longitude": 18.9433,
+          "name": "Han-Pijesak"
+        },
+        {
           "key": "Krupa na Uni",  
           "latitude": 44.8890,
           "longitude": 16.3127,

@@ -702,6 +702,18 @@
           "name": "Kladanj"
         },
         {
+          "key": "Ravno",  
+          "latitude": 42.8877,
+          "longitude": 17.9656,
+          "name": "Ravno"
+        },
+        {
+          "key": "Pelagicevo",  
+          "latitude": 44.9109,
+          "longitude": 18.6111,
+          "name": "Pelagićevo"
+        },
+        {
           "key": "Celic",  
           "latitude": 44.7075,
           "longitude": 18.7342,

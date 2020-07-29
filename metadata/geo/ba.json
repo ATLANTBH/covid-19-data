@@ -708,6 +708,24 @@
           "name": "Ravno"
         },
         {
+          "key": "Neum",  
+          "latitude": 42.9230,
+          "longitude": 17.6186,
+          "name": "Neum"
+        },
+        {
+          "key": "Glamoc",  
+          "latitude": 44.0462,
+          "longitude": 16.8557,
+          "name": "Glamoč"
+        },
+        {
+          "key": "Foca-Ustikolina",  
+          "latitude": 43.6157,
+          "longitude": 18.6957,
+          "name": "Foča-Ustikolina"
+        },
+        {
           "key": "Pelagicevo",  
           "latitude": 44.9109,
           "longitude": 18.6111,

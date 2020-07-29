@@ -4,12 +4,12 @@ recovered_count{country="BA", region="Unknown", city="Unknown"} 0
 deaths_count{country="BA", region="Unknown", city="Unknown"} 0
 # RS Unknown
 cases_count{country="BA", region="RS", city="Unknown"} 5
-recovered_count{country="BA", region="RS", city="Unknown"} 1965
-deaths_count{country="BA", region="RS", city="Unknown"} 151
+recovered_count{country="BA", region="RS", city="Unknown"} 2224
+deaths_count{country="BA", region="RS", city="Unknown"} 160
 # FBiH Unknown
 cases_count{country="BA", region="FBiH", city="Unknown"} 0
-recovered_count{country="BA", region="FBiH", city="Unknown"} 2377
-deaths_count{country="BA", region="FBiH", city="Unknown"} 115
+recovered_count{country="BA", region="FBiH", city="Unknown"} 3165
+deaths_count{country="BA", region="FBiH", city="Unknown"} 145
 # FBiH Sarajevo
 cases_count{country="BA", region="FBiH", city="Sarajevo"} 2031
 recovered_count{country="BA", region="FBiH", city="Sarajevo"} 0
@@ -52,8 +52,8 @@ recovered_count{country="BA", region="FBiH", city="Lukavac"} 0
 deaths_count{country="BA", region="FBiH", city="Lukavac"} 0
 # Brcko District Brcko
 cases_count{country="BA", region="Brcko District", city="Brcko"} 173
-recovered_count{country="BA", region="Brcko District", city="Brcko"} 23
-deaths_count{country="BA", region="Brcko District", city="Brcko"} 7
+recovered_count{country="BA", region="Brcko District", city="Brcko"} 46
+deaths_count{country="BA", region="Brcko District", city="Brcko"} 11
 # FBiH Banovici
 cases_count{country="BA", region="FBiH", city="Banovici"} 163
 recovered_count{country="BA", region="FBiH", city="Banovici"} 0

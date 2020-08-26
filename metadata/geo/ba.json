@@ -54,6 +54,12 @@
           "name": "Mostar"
         },
         {
+          "key": "Prozor-Rama",
+          "latitude": 43.8212,
+          "longitude": 17.6093,
+          "name": "Prozor-Rama"
+        },
+        {
           "key": "Tomislavgrad",
           "latitude": 43.7187,
           "longitude": 17.2236,
